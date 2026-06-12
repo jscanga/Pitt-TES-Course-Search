@@ -1,0 +1,1725 @@
+[exact ] ABRAHAM BALDWIN AGRICULTURAL COLLEGE  ->  Abraham Baldwin Agricultural College
+[exact ] ADRIAN COLLEGE  ->  Adrian College
+[exact ] AGNES SCOTT COLLEGE  ->  Agnes Scott College
+[exact ] AIKEN TECHNICAL COLLEGE  ->  Aiken Technical College
+[exact ] AIMS COMMUNITY COLLEGE  ->  Aims Community College
+[exact ] ALAMANCE COMMUNITY COLLEGE  ->  Alamance Community College
+[exact ] ALBRIGHT COLLEGE  ->  Albright College
+[exact ] ALEXANDRIA TECHNICAL & COMMUNITY COLLEGE  ->  Alexandria Technical & Community College
+[exact ] ALFRED UNIVERSITY  ->  Alfred University
+[exact ] ALLAN HANCOCK COLLEGE  ->  Allan Hancock College
+[exact ] ALLEGANY COLLEGE OF MARYLAND  ->  Allegany College of Maryland
+[exact ] ALLEGHENY COLLEGE  ->  Allegheny College
+[exact ] ALVERNIA UNIVERSITY  ->  Alvernia University
+[exact ] ALVIN COMMUNITY COLLEGE  ->  Alvin Community College
+[exact ] AMERICAN INTERCONTINENTAL UNIVERSITY  ->  American InterContinental University System
+[exact ] AMERICAN INTERCONTINENTAL UNIVERSITY-ATLANTA  ->  American InterContinental University-Atlanta
+[exact ] AMERICAN INTERNATIONAL COLLEGE  ->  American International College
+[exact ] AMERICAN JEWISH UNIVERSITY  ->  American Jewish University
+[exact ] AMERICAN PUBLIC UNIVERSITY SYSTEM  ->  American Public University System
+[exact ] AMERICAN RIVER COLLEGE  ->  American River College
+[exact ] AMERICAN UNIVERSITY  ->  American University
+[exact ] ANDERSON UNIVERSITY  ->  Anderson University
+[exact ] ANGELO STATE UNIVERSITY  ->  Angelo State University
+[exact ] ANNE ARUNDEL COMMUNITY COLLEGE  ->  Anne Arundel Community College
+[exact ] ANOKA-RAMSEY COMMUNITY COLLEGE  ->  Anoka-Ramsey Community College
+[family] ANOKA-RAMSEY COMMUNITY COLLEGE-CAMBRIDGE CAMPUS  ->  Anoka-Ramsey Community College
+[family] ANTELOPE VALLEY COLLEGE  ->  Antelope Valley Community College District
+[exact ] APPALACHIAN STATE UNIVERSITY  ->  Appalachian State University
+[exact ] AQUINAS COLLEGE  ->  Aquinas College
+[exact ] ARAPAHOE COMMUNITY COLLEGE  ->  Arapahoe Community College
+[exact ] ARCADIA UNIVERSITY  ->  Arcadia University
+[family] ARIZONA STATE UNIVERSITY - COCHISE  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - LAKE HAVASU  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - MESA CITY CENTER  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - PIMA  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - PINAL  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - THE GILA VALLEY  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - YAVAPAI  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY - YUMA  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY-DOWNTOWN PHOENIX  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY-POLYTECHNIC  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY-SKYSONG  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY-TEMPE  ->  Arizona State University Campus Immersion
+[family] ARIZONA STATE UNIVERSITY-WEST  ->  Arizona State University Campus Immersion
+[exact ] ARKANSAS STATE UNIVERSITY  ->  Arkansas State University
+[exact ] ARKANSAS STATE UNIVERSITY-BEEBE  ->  Arkansas State University-Beebe
+[exact ] ASHEVILLE-BUNCOMBE TECHNICAL COMMUNITY COLLEGE  ->  Asheville-Buncombe Technical Community College
+[exact ] ASHLAND COMMUNITY & TECHNICAL COLLEGE  ->  Ashland Community and Technical College
+[exact ] ASHLAND UNIVERSITY  ->  Ashland University
+[exact ] ATLANTIC CAPE COMMUNITY COLLEGE  ->  Atlantic Cape Community College
+[exact ] AUBURN UNIVERSITY  ->  Auburn University
+[exact ] AUBURN UNIVERSITY AT MONTGOMERY  ->  Auburn University at Montgomery
+[exact ] AUGUSTA TECHNICAL COLLEGE  ->  Augusta Technical College
+[exact ] AUGUSTA UNIVERSITY  ->  Augusta University
+[exact ] AUGUSTANA UNIVERSITY  ->  Augustana University
+[exact ] AUSTIN COMMUNITY COLLEGE  ->  Austin Community College District
+[exact ] AUSTIN PEAY STATE UNIVERSITY  ->  Austin Peay State University
+[exact ] AVE MARIA UNIVERSITY  ->  Ave Maria University
+[family] American InterContinental University - AIU London  ->  American InterContinental University System
+[exact ] BAKER UNIVERSITY  ->  Baker University
+[exact ] BAKERSFIELD COLLEGE  ->  Bakersfield College
+[exact ] BALDWIN WALLACE UNIVERSITY  ->  Baldwin Wallace University
+[exact ] BALL STATE UNIVERSITY  ->  Ball State University
+[exact ] BALTIMORE CITY COMMUNITY COLLEGE  ->  Baltimore City Community College
+[exact ] BARD COLLEGE  ->  Bard College
+[family] BARD COLLEGE - ALBION CORRECTIONAL FACILITY  ->  Bard College
+[family] BARD COLLEGE - BARD GLOBALIZATION AND INTERNATIONAL AFFAIRS PROGRAM  ->  Bard College
+[family] BARD COLLEGE - BHSEC NEWARK  ->  Bard College
+[family] BARD COLLEGE - BROOKLYN PUBLIC LIBRARY  ->  Bard College
+[family] BARD COLLEGE - EASTERN NY CORRECTIONAL FACILITY  ->  Bard College
+[family] BARD COLLEGE - FISHKILL CORRECTIONAL FACILITY  ->  Bard College
+[family] BARD COLLEGE - GREEN HAVEN CORRECTIONAL FACILITY  ->  Bard College
+[family] BARD COLLEGE - HOLYOKE MICROCOLLEGE  ->  Bard College
+[family] BARD COLLEGE - MAT PROGRAM CA  ->  Bard College
+[family] BARD COLLEGE - NEW YORK PUBLIC LIBRARY, COUNTEE CULLEN BRANCH  ->  Bard College
+[family] BARD COLLEGE - TACONIC CORRECTIONAL FACILITY  ->  Bard College
+[family] BARD COLLEGE - WOODBOURNE CORRECTIONAL FACILITY  ->  Bard College
+[exact ] BARRY UNIVERSITY  ->  Barry University
+[exact ] BARTON COLLEGE  ->  Barton College
+[exact ] BATON ROUGE COMMUNITY COLLEGE  ->  Baton Rouge Community College
+[exact ] BAYLOR UNIVERSITY  ->  Baylor University
+[exact ] BELLEVUE COLLEGE  ->  Bellevue College
+[exact ] BELLEVUE UNIVERSITY  ->  Bellevue University
+[exact ] BELLIN COLLEGE  ->  Bellin College
+[exact ] BELMONT ABBEY COLLEGE  ->  Belmont Abbey College
+[exact ] BELMONT UNIVERSITY  ->  Belmont University
+[exact ] BENTLEY UNIVERSITY  ->  Bentley University
+[exact ] BERGEN COMMUNITY COLLEGE  ->  Bergen Community College
+[exact ] BERKELEY CITY COLLEGE  ->  Berkeley City College
+[exact ] BERKLEE COLLEGE OF MUSIC  ->  Berklee College of Music
+[exact ] BETHANY COLLEGE  ->  Bethany College
+[exact ] BETHEL UNIVERSITY  ->  Bethel University
+[exact ] BIG SANDY COMMUNITY & TECHNICAL COLLEGE  ->  Big Sandy Community and Technical College
+[exact ] BIOLA UNIVERSITY  ->  Biola University
+[exact ] BLINN COLLEGE  ->  Blinn College District
+[exact ] BLUE RIDGE COMMUNITY AND TECHNICAL COLLEGE  ->  Blue Ridge Community and Technical College
+[exact ] BLUE RIDGE COMMUNITY COLLEGE  ->  Blue Ridge Community College
+[exact ] BLUEGRASS COMMUNITY & TECHNICAL COLLEGE  ->  Bluegrass Community and Technical College
+[exact ] BOSTON COLLEGE  ->  Boston College
+[exact ] BOSTON UNIVERSITY  ->  Boston University
+[exact ] BOWLING GREEN STATE UNIVERSITY-FIRELANDS  ->  Bowling Green State University-Firelands
+[exact ] BOWLING GREEN STATE UNIVERSITY-MAIN CAMPUS  ->  Bowling Green State University-Main Campus
+[exact ] BRADLEY UNIVERSITY  ->  Bradley University
+[exact ] BRANDEIS UNIVERSITY  ->  Brandeis University
+[exact ] BRAZOSPORT COLLEGE  ->  Brazosport College
+[exact ] BRIDGEWATER STATE UNIVERSITY  ->  Bridgewater State University
+[exact ] BRIGHAM YOUNG UNIVERSITY  ->  Brigham Young University
+[exact ] BRIGHAM YOUNG UNIVERSITY - IDAHO  ->  Brigham Young University-Idaho
+[exact ] BRIGHAM YOUNG UNIVERSITY-HAWAII CAMPUS  ->  Brigham Young University-Hawaii
+[exact ] BRIGHTPOINT COMMUNITY COLLEGE  ->  Brightpoint Community College
+[exact ] BROOKDALE COMMUNITY COLLEGE  ->  Brookdale Community College
+[exact ] BROOME COMMUNITY COLLEGE  ->  SUNY Broome Community College
+[exact ] BROWARD COLLEGE  ->  Broward College
+[exact ] BRYANT UNIVERSITY  ->  Bryant University
+[exact ] BRYN ATHYN COLLEGE OF THE NEW CHURCH  ->  Bryn Athyn College of the New Church
+[exact ] BRYN MAWR COLLEGE  ->  Bryn Mawr College
+[exact ] BUCKNELL UNIVERSITY  ->  Bucknell University
+[exact ] BUCKS COUNTY COMMUNITY COLLEGE  ->  Bucks County Community College
+[family] BUCKS COUNTY COMMUNITY COLLEGE-LOWER BUCKS CAMPUS  ->  Bucks County Community College
+[family] BUCKS COUNTY COMMUNITY COLLEGE-UPPER BUCKS CAMPUS  ->  Bucks County Community College
+[family] BUFFALO STATE, STATE UNIVERSITY OF NEW YORK  ->  SUNY Buffalo State University
+[exact ] BUNKER HILL COMMUNITY COLLEGE  ->  Bunker Hill Community College
+[exact ] BUTLER COMMUNITY COLLEGE  ->  Butler Community College
+[exact ] BUTLER COUNTY COMMUNITY COLLEGE  ->  Butler County Community College
+[exact ] BUTLER UNIVERSITY  ->  Butler University
+[exact ] BUTTE COLLEGE  ->  Butte College
+[exact ] CALDWELL COMMUNITY COLLEGE AND TECHNICAL INSTITUTE  ->  Caldwell Community College and Technical Institute
+[exact ] CALDWELL UNIVERSITY  ->  Caldwell University
+[exact ] CALIFORNIA BAPTIST UNIVERSITY  ->  California Baptist University
+[exact ] CALIFORNIA BAPTIST UNIVERSITY ONLINE  ->  California Baptist University
+[exact ] CALIFORNIA POLYTECHNIC STATE UNIVERSITY-SAN LUIS OBISPO  ->  California Polytechnic State University-San Luis Obispo
+[exact ] CALIFORNIA STATE POLYTECHNIC UNIVERSITY-POMONA  ->  California State Polytechnic University-Pomona
+[exact ] CALIFORNIA STATE UNIVERSITY-CHICO  ->  California State University-Chico
+[exact ] CALIFORNIA STATE UNIVERSITY-EAST BAY  ->  California State University-East Bay
+[exact ] CALIFORNIA STATE UNIVERSITY-FRESNO  ->  California State University-Fresno
+[exact ] CALIFORNIA STATE UNIVERSITY-FULLERTON  ->  California State University-Fullerton
+[exact ] CALIFORNIA STATE UNIVERSITY-LONG BEACH  ->  California State University-Long Beach
+[exact ] CALIFORNIA STATE UNIVERSITY-NORTHRIDGE  ->  California State University-Northridge
+[exact ] CALIFORNIA STATE UNIVERSITY-SAN MARCOS  ->  California State University-San Marcos
+[exact ] CALVIN UNIVERSITY  ->  Calvin University
+[family] CALVIN UNIVERSITY - HANDLON CAMPUS  ->  Calvin University
+[exact ] CAMDEN COUNTY COLLEGE  ->  Camden County College
+[exact ] CAMERON UNIVERSITY  ->  Cameron University
+[exact ] CAMPBELL UNIVERSITY  ->  Campbell University
+[exact ] CANADA COLLEGE  ->  Canada College
+[exact ] CAPE FEAR COMMUNITY COLLEGE  ->  Cape Fear Community College
+[exact ] CAPELLA UNIVERSITY  ->  Capella University
+[exact ] CAPITAL UNIVERSITY  ->  Capital University
+[exact ] CARLETON COLLEGE  ->  Carleton College
+[exact ] CARLOW UNIVERSITY  ->  Carlow University
+[exact ] CARNEGIE MELLON UNIVERSITY  ->  Carnegie Mellon University
+[exact ] CARROLL COLLEGE  ->  Carroll College
+[exact ] CARROLL COMMUNITY COLLEGE  ->  Carroll Community College
+[exact ] CARROLL UNIVERSITY  ->  Carroll University
+[exact ] CARTERET COMMUNITY COLLEGE  ->  Carteret Community College
+[exact ] CARTHAGE COLLEGE  ->  Carthage College
+[exact ] CASE WESTERN RESERVE UNIVERSITY  ->  Case Western Reserve University
+[exact ] CASPER COLLEGE  ->  Casper College
+[exact ] CATAWBA VALLEY COMMUNITY COLLEGE  ->  Catawba Valley Community College
+[exact ] CATHOLIC UNIVERSITY OF AMERICA  ->  The Catholic University of America
+[exact ] CECIL COLLEGE  ->  Cecil College
+[family] CECIL COLLEGE - ELKTON STATION  ->  Cecil College
+[exact ] CEDARVILLE UNIVERSITY  ->  Cedarville University
+[exact ] CENTRAL MAINE COMMUNITY COLLEGE  ->  Central Maine Community College
+[exact ] CENTRAL OREGON COMMUNITY COLLEGE  ->  Central Oregon Community College
+[exact ] CENTRAL PENN COLLEGE  ->  Central Penn College
+[exact ] CENTRAL PIEDMONT COMMUNITY COLLEGE  ->  Central Piedmont Community College
+[exact ] CENTRAL STATE UNIVERSITY  ->  Central State University
+[exact ] CENTRAL TEXAS COLLEGE  ->  Central Texas College
+[exact ] CENTRAL WASHINGTON UNIVERSITY  ->  Central Washington University
+[exact ] CENTRAL WYOMING COLLEGE  ->  Central Wyoming College
+[exact ] CENTURY COLLEGE  ->  Century College
+[exact ] CERRITOS COLLEGE  ->  Cerritos College
+[exact ] CERRO COSO COMMUNITY COLLEGE  ->  Cerro Coso Community College
+[exact ] CHAFFEY COLLEGE  ->  Chaffey College
+[exact ] CHAMPLAIN COLLEGE  ->  Champlain College
+[exact ] CHANDLER-GILBERT COMMUNITY COLLEGE  ->  Chandler-Gilbert Community College
+[exact ] CHAPMAN UNIVERSITY  ->  Chapman University
+[exact ] CHARLESTON SOUTHERN UNIVERSITY  ->  Charleston Southern University
+[exact ] CHATHAM UNIVERSITY  ->  Chatham University
+[exact ] CHATTAHOOCHEE TECHNICAL COLLEGE  ->  Chattahoochee Technical College
+[exact ] CHATTAHOOCHEE VALLEY COMMUNITY COLLEGE  ->  Chattahoochee Valley Community College
+[exact ] CHEMEKETA COMMUNITY COLLEGE  ->  Chemeketa Community College
+[exact ] CHESAPEAKE COLLEGE  ->  Chesapeake College
+[exact ] CHESTNUT HILL COLLEGE  ->  Chestnut Hill College
+[exact ] CHEYNEY UNIVERSITY OF PENNSYLVANIA  ->  Cheyney University of Pennsylvania
+[exact ] CHRISTOPHER NEWPORT UNIVERSITY  ->  Christopher Newport University
+[exact ] CINCINNATI STATE TECHNICAL AND COMMUNITY COLLEGE  ->  Cincinnati State Technical and Community College
+[exact ] CITRUS COLLEGE  ->  Citrus College
+[exact ] CITY COLLEGE OF SAN FRANCISCO  ->  City College of San Francisco
+[family] CITY COLLEGES OF CHICAGO-CENTRAL OFFICE  ->  City Colleges of Chicago-District Office
+[exact ] CITY COLLEGES OF CHICAGO-HAROLD WASHINGTON COLLEGE  ->  City Colleges of Chicago-Harold Washington College
+[exact ] CITY COLLEGES OF CHICAGO-HARRY S TRUMAN COLLEGE  ->  City Colleges of Chicago-Harry S Truman College
+[exact ] CITY COLLEGES OF CHICAGO-KENNEDY-KING COLLEGE  ->  City Colleges of Chicago-Kennedy-King College
+[exact ] CITY COLLEGES OF CHICAGO-MALCOLM X COLLEGE  ->  City Colleges of Chicago-Malcolm X College
+[exact ] CITY COLLEGES OF CHICAGO-OLIVE-HARVEY COLLEGE  ->  City Colleges of Chicago-Olive-Harvey College
+[exact ] CITY COLLEGES OF CHICAGO-RICHARD J DALEY COLLEGE  ->  City Colleges of Chicago-Richard J Daley College
+[exact ] CITY COLLEGES OF CHICAGO-WILBUR WRIGHT COLLEGE  ->  City Colleges of Chicago-Wilbur Wright College
+[exact ] CLACKAMAS COMMUNITY COLLEGE  ->  Clackamas Community College
+[exact ] CLARK ATLANTA UNIVERSITY  ->  Clark Atlanta University
+[exact ] CLARK COLLEGE  ->  Clark College
+[exact ] CLARK STATE COLLEGE  ->  Clark State College
+[exact ] CLARK UNIVERSITY  ->  Clark University
+[exact ] CLARKSON UNIVERSITY  ->  Clarkson University
+[exact ] CLAYTON STATE UNIVERSITY  ->  Clayton  State University
+[exact ] CLEMSON UNIVERSITY  ->  Clemson University
+[exact ] CLEVELAND COMMUNITY COLLEGE  ->  Cleveland Community College
+[exact ] CLEVELAND INSTITUTE OF ART  ->  Cleveland Institute of Art
+[exact ] CLEVELAND STATE UNIVERSITY  ->  Cleveland State University
+[exact ] CLINTON COMMUNITY COLLEGE  ->  Clinton Community College
+[exact ] CLOVIS COMMUNITY COLLEGE  ->  Clovis Community College
+[exact ] COASTAL ALABAMA COMMUNITY COLLEGE  ->  Coastal Alabama Community College
+[exact ] COASTAL CAROLINA COMMUNITY COLLEGE  ->  Coastal Carolina Community College
+[exact ] COASTAL CAROLINA UNIVERSITY  ->  Coastal Carolina University
+[exact ] COASTAL PINES TECHNICAL COLLEGE  ->  Coastal Pines Technical College
+[exact ] COASTLINE COMMUNITY COLLEGE  ->  Coastline Community College
+[exact ] COFFEYVILLE COMMUNITY COLLEGE  ->  Coffeyville Community College
+[exact ] COKER UNIVERSITY  ->  Coker University
+[exact ] COLBY COLLEGE  ->  Colby College
+[exact ] COLGATE UNIVERSITY  ->  Colgate University
+[exact ] COLLEGE OF ALAMEDA  ->  College of Alameda
+[exact ] COLLEGE OF CHARLESTON  ->  College of Charleston
+[exact ] COLLEGE OF DUPAGE  ->  College of DuPage
+[exact ] COLLEGE OF LAKE COUNTY  ->  College of Lake County
+[exact ] COLLEGE OF MARIN  ->  College of Marin
+[exact ] COLLEGE OF NEW JERSEY, THE  ->  The College of New Jersey
+[exact ] COLLEGE OF SAINT ROSE, THE  ->  The College of Saint Rose
+[exact ] COLLEGE OF SAN MATEO  ->  College of San Mateo
+[exact ] COLLEGE OF SOUTHERN IDAHO  ->  College of Southern Idaho
+[exact ] COLLEGE OF SOUTHERN MARYLAND  ->  College of Southern Maryland
+[exact ] COLLEGE OF SOUTHERN NEVADA  ->  College of Southern Nevada
+[exact ] COLLEGE OF THE CANYONS  ->  College of the Canyons
+[exact ] COLLEGE OF THE DESERT  ->  College of the Desert
+[exact ] COLLEGE OF THE HOLY CROSS  ->  College of the Holy Cross
+[exact ] COLLEGE OF THE MAINLAND  ->  College of the Mainland
+[exact ] COLLEGE OF THE SEQUOIAS  ->  College of the Sequoias
+[exact ] COLLEGE OF WOOSTER  ->  The College of Wooster
+[exact ] COLLIN COUNTY COMMUNITY COLLEGE DISTRICT  ->  Collin County Community College District
+[exact ] COLORADO CHRISTIAN UNIVERSITY  ->  Colorado Christian University
+[exact ] COLORADO COLLEGE  ->  Colorado College
+[family] COLORADO STATE UNIVERSITY  ->  Colorado State University-Fort Collins
+[exact ] COLORADO STATE UNIVERSITY - PUEBLO  ->  Colorado State University Pueblo
+[exact ] COLORADO STATE UNIVERSITY-GLOBAL CAMPUS  ->  Colorado State University Global
+[family] COLORADO TECHNICAL UNIVERSITY  ->  Colorado Technical University-Colorado Springs
+[family] COLORADO TECHNICAL UNIVERSITY-DENVER  ->  Colorado Technical University-Colorado Springs
+[family] COLORADO TECHNICAL UNIVERSITY-KANSAS CITY  ->  Colorado Technical University-Colorado Springs
+[family] COLORADO TECHNICAL UNIVERSITY-ONLINE  ->  Colorado Technical University-Colorado Springs
+[family] COLUMBIA COLLEGE -  JACKSONVILLE  ->  Columbia College
+[family] COLUMBIA COLLEGE - COAST GUARD ISLAND  ->  Columbia College
+[family] COLUMBIA COLLEGE - COLUMBIA  ->  Columbia College
+[family] COLUMBIA COLLEGE - CRYSTAL LAKE CAMPUS  ->  Columbia College
+[family] COLUMBIA COLLEGE - DENVER  ->  Columbia College
+[family] COLUMBIA COLLEGE - EASTFIELD PLEASANT GROVE  ->  Columbia College
+[family] COLUMBIA COLLEGE - ELGIN  ->  Columbia College
+[family] COLUMBIA COLLEGE - ELLSWORTH AFB  ->  Columbia College
+[family] COLUMBIA COLLEGE - FORT DRUM  ->  Columbia College
+[family] COLUMBIA COLLEGE - FORT LEONARD WOOD  ->  Columbia College
+[family] COLUMBIA COLLEGE - FORT LEONARD WOOD 58TH TRANS BN  ->  Columbia College
+[family] COLUMBIA COLLEGE - FORT SILL  ->  Columbia College
+[family] COLUMBIA COLLEGE - FORT STEWART  ->  Columbia College
+[family] COLUMBIA COLLEGE - FORT WORTH  ->  Columbia College
+[family] COLUMBIA COLLEGE - FREEPORT  ->  Columbia College
+[family] COLUMBIA COLLEGE - GRISSOM ARB  ->  Columbia College
+[family] COLUMBIA COLLEGE - HANCOCK FIELD  ->  Columbia College
+[family] COLUMBIA COLLEGE - HUNTER ARMY AIRFIELD  ->  Columbia College
+[family] COLUMBIA COLLEGE - IMPERIAL  ->  Columbia College
+[family] COLUMBIA COLLEGE - JEFFERSON CITY  ->  Columbia College
+[family] COLUMBIA COLLEGE - JOINT BASE CHARLESTON-WEAPONS STATION  ->  Columbia College
+[family] COLUMBIA COLLEGE - KANSAS CITY  ->  Columbia College
+[family] COLUMBIA COLLEGE - LAKE COUNTY  ->  Columbia College
+[family] COLUMBIA COLLEGE - LAKE OZARK  ->  Columbia College
+[family] COLUMBIA COLLEGE - LEMOORE  ->  Columbia College
+[family] COLUMBIA COLLEGE - LOS ALAMITOS  ->  Columbia College
+[family] COLUMBIA COLLEGE - MESQUITE  ->  Columbia College
+[family] COLUMBIA COLLEGE - MINOT AFB  ->  Columbia College
+[family] COLUMBIA COLLEGE - NAS JACKSONVILLE  ->  Columbia College
+[family] COLUMBIA COLLEGE - NAVAL BASE SAN DIEGO  ->  Columbia College
+[family] COLUMBIA COLLEGE - NAVAL STATION EVERETT/MARYSVILLE  ->  Columbia College
+[family] COLUMBIA COLLEGE - ORLANDO  ->  Columbia College
+[family] COLUMBIA COLLEGE - PATRICK AFB  ->  Columbia College
+[family] COLUMBIA COLLEGE - REDSTONE ARSENAL  ->  Columbia College
+[family] COLUMBIA COLLEGE - ROLLA  ->  Columbia College
+[family] COLUMBIA COLLEGE - SAINT LOUIS  ->  Columbia College
+[family] COLUMBIA COLLEGE - SALT LAKE  ->  Columbia College
+[family] COLUMBIA COLLEGE - SAN DIEGO  ->  Columbia College
+[family] COLUMBIA COLLEGE - SAN LUIS OBISPO  ->  Columbia College
+[family] COLUMBIA COLLEGE - SPRINGFIELD  ->  Columbia College
+[family] COLUMBIA COLLEGE - SPRINGFIELD TMOBILE  ->  Columbia College
+[family] COLUMBIA COLLEGE - TAVARES PD  ->  Columbia College
+[family] COLUMBIA COLLEGE - USCG BASE HONOLULU  ->  Columbia College
+[family] COLUMBIA COLLEGE - WAYNESVILLE  ->  Columbia College
+[family] COLUMBIA COLLEGE - WHIDBEY ISLAND  ->  Columbia College
+[family] COLUMBIA COLLEGE - WHITEMAN AFB  ->  Columbia College
+[exact ] COLUMBIA COLLEGE CHICAGO  ->  Columbia College Chicago
+[exact ] COLUMBIA SOUTHERN UNIVERSITY  ->  Columbia Southern University
+[exact ] COLUMBIA STATE COMMUNITY COLLEGE  ->  Columbia State Community College
+[exact ] COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK  ->  Columbia University in the City of New York
+[exact ] COLUMBUS STATE COMMUNITY COLLEGE  ->  Columbus State Community College
+[exact ] COLUMBUS STATE UNIVERSITY  ->  Columbus State University
+[exact ] COMMONWEALTH UNIVERSITY OF PENNSYLVANIA  ->  Commonwealth University of Pennsylvania
+[family] COMMUNITY COLLEGE OF ALLEGHENY COUNTY-PITTSBURGH  ->  Community College of Allegheny County
+[exact ] COMMUNITY COLLEGE OF AURORA  ->  Community College of Aurora
+[exact ] COMMUNITY COLLEGE OF BALTIMORE COUNTY  ->  Community College of Baltimore County
+[exact ] COMMUNITY COLLEGE OF BEAVER COUNTY  ->  Community College of Beaver County
+[exact ] COMMUNITY COLLEGE OF PHILADELPHIA  ->  Community College of Philadelphia
+[exact ] COMMUNITY COLLEGE OF RHODE ISLAND  ->  Community College of Rhode Island
+[exact ] COMMUNITY COLLEGE OF VERMONT  ->  Community College of Vermont
+[exact ] CONNECTICUT COLLEGE  ->  Connecticut College
+[exact ] CONNECTICUT STATE COMMUNITY COLLEGE  ->  Connecticut State Community College
+[exact ] CONTRA COSTA COLLEGE  ->  Contra Costa College
+[exact ] COPIAH-LINCOLN COMMUNITY COLLEGE  ->  Copiah-Lincoln Community College
+[family] COPIAH-LINCOLN COMMUNITY COLLEGE-NATCHEZ CAMPUS  ->  Copiah-Lincoln Community College
+[exact ] COPPIN STATE UNIVERSITY  ->  Coppin State University
+[exact ] CORNELL UNIVERSITY  ->  Cornell University
+[exact ] CORNING COMMUNITY COLLEGE  ->  SUNY Corning Community College
+[exact ] COSUMNES RIVER COLLEGE  ->  Cosumnes River College
+[exact ] COUNTY COLLEGE OF MORRIS  ->  County College of Morris
+[exact ] CRAFTON HILLS COLLEGE  ->  Crafton Hills College
+[exact ] CREIGHTON UNIVERSITY  ->  Creighton University
+[exact ] CUESTA COLLEGE  ->  Cuesta College
+[exact ] CULVER-STOCKTON COLLEGE  ->  Culver-Stockton College
+[exact ] CUNY BERNARD M BARUCH COLLEGE  ->  CUNY Bernard M Baruch College
+[exact ] CUNY BOROUGH OF MANHATTAN COMMUNITY COLLEGE  ->  CUNY Borough of Manhattan Community College
+[exact ] CUNY BRONX COMMUNITY COLLEGE  ->  CUNY Bronx Community College
+[exact ] CUNY BROOKLYN COLLEGE  ->  CUNY Brooklyn College
+[exact ] CUNY CITY COLLEGE  ->  CUNY City College
+[exact ] CUNY JOHN JAY COLLEGE OF CRIMINAL JUSTICE  ->  CUNY John Jay College of Criminal Justice
+[exact ] CUNY KINGSBOROUGH COMMUNITY COLLEGE  ->  CUNY Kingsborough Community College
+[exact ] CUNY LAGUARDIA COMMUNITY COLLEGE  ->  CUNY LaGuardia Community College
+[exact ] CUNY MEDGAR EVERS COLLEGE  ->  CUNY Medgar Evers College
+[exact ] CUNY QUEENS COLLEGE  ->  CUNY Queens College
+[exact ] CUNY QUEENSBOROUGH COMMUNITY COLLEGE  ->  CUNY Queensborough Community College
+[exact ] CUYAHOGA COMMUNITY COLLEGE DISTRICT  ->  Cuyahoga Community College District
+[exact ] CYPRESS COLLEGE  ->  Cypress College
+[exact ] D'YOUVILLE UNIVERSITY  ->  D'Youville  University
+[exact ] DAKOTA COUNTY TECHNICAL COLLEGE  ->  Dakota County Technical College
+[exact ] DAKOTA STATE UNIVERSITY  ->  Dakota State University
+[exact ] DALLAS BAPTIST UNIVERSITY  ->  Dallas Baptist University
+[exact ] DALLAS COLLEGE  ->  Dallas College
+[exact ] DAVIDSON COLLEGE  ->  Davidson College
+[exact ] DAVIDSON-DAVIE COMMUNITY COLLEGE  ->  Davidson-Davie Community College
+[exact ] DAYTONA STATE COLLEGE  ->  Daytona State College
+[exact ] DE ANZA COLLEGE  ->  De Anza College
+[exact ] DEFIANCE COLLEGE  ->  Defiance College
+[exact ] DEL MAR COLLEGE  ->  Del Mar College
+[exact ] DELAWARE COUNTY COMMUNITY COLLEGE  ->  Delaware County Community College
+[exact ] DELAWARE STATE UNIVERSITY  ->  Delaware State University
+[family] DELAWARE TECHNICAL COMMUNITY COLLEGE-OWENS  ->  Delaware Technical Community College-Terry
+[family] DELAWARE TECHNICAL COMMUNITY COLLEGE-STANTON/WILMINGTON  ->  Delaware Technical Community College-Terry
+[exact ] DELAWARE TECHNICAL COMMUNITY COLLEGE-TERRY  ->  Delaware Technical Community College-Terry
+[exact ] DELAWARE VALLEY UNIVERSITY  ->  Delaware Valley University
+[exact ] DELGADO COMMUNITY COLLEGE  ->  Delgado Community College
+[exact ] DELTA COLLEGE  ->  Delta College
+[exact ] DENISON UNIVERSITY  ->  Denison University
+[exact ] DENMARK TECHNICAL COLLEGE  ->  Denmark Technical College
+[exact ] DEPAUL UNIVERSITY  ->  DePaul University
+[exact ] DES MOINES AREA COMMUNITY COLLEGE  ->  Des Moines Area Community College
+[exact ] DESALES UNIVERSITY  ->  DeSales University
+[exact ] DIABLO VALLEY COLLEGE  ->  Diablo Valley College
+[exact ] DICKINSON COLLEGE  ->  Dickinson College
+[exact ] DIGIPEN INSTITUTE OF TECHNOLOGY  ->  DigiPen Institute of Technology
+[exact ] DOANE UNIVERSITY  ->  Doane University
+[exact ] DODGE CITY COMMUNITY COLLEGE  ->  Dodge City Community College
+[exact ] DOMINICAN UNIVERSITY NEW YORK  ->  Dominican University New York
+[exact ] DREXEL UNIVERSITY  ->  Drexel University
+[exact ] DUKE UNIVERSITY  ->  Duke University
+[exact ] DUQUESNE UNIVERSITY  ->  Duquesne University
+[exact ] DURHAM TECHNICAL COMMUNITY COLLEGE  ->  Durham Technical Community College
+[exact ] DUTCHESS COMMUNITY COLLEGE  ->  Dutchess Community College
+[exact ] DYERSBURG STATE COMMUNITY COLLEGE  ->  Dyersburg State Community College
+[exact ] EARLHAM COLLEGE  ->  Earlham College
+[exact ] EAST CAROLINA UNIVERSITY  ->  East Carolina University
+[exact ] EAST CENTRAL COMMUNITY COLLEGE  ->  East Central Community College
+[exact ] EAST GEORGIA STATE COLLEGE  ->  East Georgia State College
+[family] EAST GEORGIA STATE COLLEGE - AUGUSTA  ->  East Georgia State College
+[family] EAST GEORGIA STATE COLLEGE - STATESBORO  ->  East Georgia State College
+[exact ] EAST LOS ANGELES COLLEGE  ->  East Los Angeles College
+[exact ] EAST STROUDSBURG UNIVERSITY OF PENNSYLVANIA  ->  East Stroudsburg University of Pennsylvania
+[exact ] EAST TENNESSEE STATE UNIVERSITY  ->  East Tennessee State University
+[exact ] EASTERN CONNECTICUT STATE UNIVERSITY  ->  Eastern Connecticut State University
+[exact ] EASTERN FLORIDA STATE COLLEGE  ->  Eastern Florida State College
+[exact ] EASTERN GATEWAY COMMUNITY COLLEGE  ->  Eastern Gateway Community College
+[exact ] EASTERN KENTUCKY UNIVERSITY  ->  Eastern Kentucky University
+[exact ] EASTERN MICHIGAN UNIVERSITY  ->  Eastern Michigan University
+[exact ] EASTERN NAZARENE COLLEGE  ->  Eastern Nazarene College
+[exact ] EASTERN NEW MEXICO UNIVERSITY-MAIN CAMPUS  ->  Eastern New Mexico University-Main Campus
+[exact ] EASTERN SHORE COMMUNITY COLLEGE  ->  Eastern Shore Community College
+[exact ] EASTERN UNIVERSITY  ->  Eastern University
+[exact ] ECKERD COLLEGE  ->  Eckerd College
+[exact ] ECPI UNIVERSITY  ->  ECPI University
+[family] ECPI UNIVERSITY - COLLEGE OF NURSING - ORLANDO  ->  ECPI University
+[family] ECPI UNIVERSITY - CULINARY INSTITUTE OF VIRGINIA - NEWPORT NEWS  ->  ECPI University
+[family] ECPI UNIVERSITY - ROANOKE  ->  ECPI University
+[family] ECPI UNIVERSITY - SAN ANTONIO  ->  ECPI University
+[family] ECPI UNIVERSITY-CHARLESTON  ->  ECPI University
+[family] ECPI UNIVERSITY-CHARLOTTE  ->  ECPI University
+[family] ECPI UNIVERSITY-COLUMBIA  ->  ECPI University
+[family] ECPI UNIVERSITY-CONCORD  ->  ECPI University
+[family] ECPI UNIVERSITY-CULINARY INSTITUTE OF VIRGINIA  ->  ECPI University
+[family] ECPI UNIVERSITY-GREENSBORO  ->  ECPI University
+[family] ECPI UNIVERSITY-GREENVILLE  ->  ECPI University
+[family] ECPI UNIVERSITY-INNSBROOK  ->  ECPI University
+[family] ECPI UNIVERSITY-MANASSAS  ->  ECPI University
+[family] ECPI UNIVERSITY-NEWPORT NEWS  ->  ECPI University
+[family] ECPI UNIVERSITY-RALEIGH  ->  ECPI University
+[family] ECPI UNIVERSITY-RICHMOND SOUTH  ->  ECPI University
+[family] ECPI UNIVERSITY-RICHMOND WEST  ->  ECPI University
+[family] ECPI UNIVERSITY-VIRGINIA BEACH HEALTH SCIENCES  ->  ECPI University
+[family] EL CAMINO COLLEGE  ->  El Camino Community College District
+[exact ] EL PASO COMMUNITY COLLEGE  ->  El Paso Community College
+[exact ] ELGIN COMMUNITY COLLEGE  ->  Elgin Community College
+[exact ] ELIZABETHTOWN COLLEGE  ->  Elizabethtown College
+[exact ] ELIZABETHTOWN COMMUNITY & TECHNICAL COLLEGE  ->  Elizabethtown Community and Technical College
+[exact ] ELMHURST UNIVERSITY  ->  Elmhurst University
+[exact ] ELON UNIVERSITY  ->  Elon University
+[family] EMBRY-RIDDLE AERONAUTICAL UNIVERSITY  ->  Embry-Riddle Aeronautical University-Worldwide
+[exact ] EMBRY-RIDDLE AERONAUTICAL UNIVERSITY - PRESCOTT  ->  Embry-Riddle Aeronautical University-Prescott
+[exact ] EMBRY-RIDDLE AERONAUTICAL UNIVERSITY-WORLDWIDE  ->  Embry-Riddle Aeronautical University-Worldwide
+[exact ] EMERSON COLLEGE  ->  Emerson College
+[exact ] EMMANUEL COLLEGE  ->  Emmanuel College
+[exact ] EMORY UNIVERSITY  ->  Emory University
+[exact ] EMORY UNIVERSITY-OXFORD COLLEGE  ->  Emory University-Oxford College
+[exact ] ENDICOTT COLLEGE  ->  Endicott College
+[exact ] ERIE COMMUNITY COLLEGE  ->  Erie Community College
+[exact ] ESSEX COUNTY COLLEGE  ->  Essex County College
+[exact ] ESTRELLA MOUNTAIN COMMUNITY COLLEGE  ->  Estrella Mountain Community College
+[exact ] EVERGREEN VALLEY COLLEGE  ->  Evergreen Valley College
+[exact ] EXCELSIOR UNIVERSITY  ->  Excelsior University
+[exact ] FAIRFIELD UNIVERSITY  ->  Fairfield University
+[exact ] FAIRLEIGH DICKINSON UNIVERSITY-FLORHAM CAMPUS  ->  Fairleigh Dickinson University-Florham Campus
+[exact ] FAIRLEIGH DICKINSON UNIVERSITY-METROPOLITAN CAMPUS  ->  Fairleigh Dickinson University-Metropolitan Campus
+[exact ] FAIRMONT STATE UNIVERSITY  ->  Fairmont State University
+[exact ] FARMINGDALE STATE COLLEGE  ->  Farmingdale State College
+[exact ] FASHION INSTITUTE OF TECHNOLOGY  ->  Fashion Institute of Technology
+[exact ] FAYETTEVILLE TECHNICAL COMMUNITY COLLEGE  ->  Fayetteville Technical Community College
+[exact ] FINGER LAKES COMMUNITY COLLEGE  ->  Finger Lakes Community College
+[exact ] FLAGLER COLLEGE  ->  Flagler College
+[family] FLAGLER COLLEGE-TALLAHASSEE  ->  Flagler College
+[exact ] FLORIDA ATLANTIC UNIVERSITY  ->  Florida Atlantic University
+[exact ] FLORIDA GULF COAST UNIVERSITY  ->  Florida Gulf Coast University
+[family] FLORIDA INSTITUTE OF TECHNOLOGY-FLORIDA TECH ONLINE  ->  Florida Institute of Technology
+[family] FLORIDA INSTITUTE OF TECHNOLOGY-MELBOURNE  ->  Florida Institute of Technology
+[exact ] FLORIDA INTERNATIONAL UNIVERSITY  ->  Florida International University
+[exact ] FLORIDA POLYTECHNIC UNIVERSITY  ->  Florida Polytechnic University
+[exact ] FLORIDA SOUTHWESTERN STATE COLLEGE  ->  Florida SouthWestern State College
+[exact ] FLORIDA STATE COLLEGE AT JACKSONVILLE  ->  Florida State College at Jacksonville
+[exact ] FLORIDA STATE UNIVERSITY  ->  Florida State University
+[family] FLORIDA STATE UNIVERSITY - PANAMA  ->  Florida State University
+[exact ] FOND DU LAC TRIBAL AND COMMUNITY COLLEGE  ->  Fond du Lac Tribal and Community College
+[exact ] FOOTHILL COLLEGE  ->  Foothill College
+[exact ] FORDHAM UNIVERSITY  ->  Fordham University
+[exact ] FORSYTH TECHNICAL COMMUNITY COLLEGE  ->  Forsyth Technical Community College
+[exact ] FORT HAYS STATE UNIVERSITY  ->  Fort Hays State University
+[exact ] FORT LEWIS COLLEGE  ->  Fort Lewis College
+[exact ] FRANCISCAN UNIVERSITY OF STEUBENVILLE  ->  Franciscan University of Steubenville
+[exact ] FRANKLIN AND MARSHALL COLLEGE  ->  Franklin and Marshall College
+[exact ] FRANKLIN PIERCE UNIVERSITY  ->  Franklin Pierce University
+[exact ] FREDERICK COMMUNITY COLLEGE  ->  Frederick Community College
+[exact ] FRIENDS UNIVERSITY  ->  Friends University
+[exact ] FRONT RANGE COMMUNITY COLLEGE  ->  Front Range Community College
+[exact ] FROSTBURG STATE UNIVERSITY  ->  Frostburg State University
+[exact ] FULL SAIL UNIVERSITY  ->  Full Sail University
+[exact ] FULLERTON COLLEGE  ->  Fullerton College
+[exact ] FURMAN UNIVERSITY  ->  Furman University
+[family] Fairleigh Dickinson University - Wroxton  ->  Fairleigh Dickinson University-Metropolitan Campus
+[exact ] GADSDEN STATE COMMUNITY COLLEGE  ->  Gadsden State Community College
+[exact ] GANNON UNIVERSITY  ->  Gannon University
+[exact ] GASTON COLLEGE  ->  Gaston College
+[exact ] GATEWAY COMMUNITY AND TECHNICAL COLLEGE  ->  Gateway Community and Technical College
+[exact ] GATEWAY COMMUNITY COLLEGE  ->  GateWay Community College
+[exact ] GENESEE COMMUNITY COLLEGE  ->  Genesee Community College
+[exact ] GENEVA COLLEGE  ->  Geneva College
+[exact ] GEORGE MASON UNIVERSITY  ->  George Mason University
+[exact ] GEORGE WASHINGTON UNIVERSITY  ->  George Washington University
+[exact ] GEORGETOWN UNIVERSITY  ->  Georgetown University
+[exact ] GEORGIA COLLEGE AND STATE UNIVERSITY  ->  Georgia College & State University
+[exact ] GEORGIA GWINNETT COLLEGE  ->  Georgia Gwinnett College
+[exact ] GEORGIA INSTITUTE OF TECHNOLOGY-MAIN CAMPUS  ->  Georgia Institute of Technology-Main Campus
+[exact ] GEORGIA MILITARY COLLEGE  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - ALBANY  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - AUGUSTA  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - COLUMBUS  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - DUBLIN  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - FAIRBURN  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - FAYETTEVILLE  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - MADISON  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - ROBINS  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - STONE MOUNTAIN  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - VALDOSTA  ->  Georgia Military College
+[family] GEORGIA MILITARY COLLEGE - ZEBULON  ->  Georgia Military College
+[exact ] GEORGIA NORTHWESTERN TECHNICAL COLLEGE  ->  Georgia Northwestern Technical College
+[exact ] GEORGIA SOUTHERN UNIVERSITY  ->  Georgia Southern University
+[exact ] GEORGIA STATE UNIVERSITY  ->  Georgia State University
+[exact ] GEORGIA STATE UNIVERSITY-PERIMETER COLLEGE  ->  Georgia State University-Perimeter College
+[exact ] GEORGIAN COURT UNIVERSITY  ->  Georgian Court University
+[exact ] GERMANNA COMMUNITY COLLEGE  ->  Germanna Community College
+[exact ] GETTYSBURG COLLEGE  ->  Gettysburg College
+[exact ] GLENDALE COMMUNITY COLLEGE  ->  Glendale Community College
+[exact ] GLENVILLE STATE UNIVERSITY  ->  Glenville State University
+[exact ] GODS BIBLE SCHOOL AND COLLEGE  ->  Gods Bible School and College
+[family] GOLDEN GATE UNIVERSITY-LOS ANGELES  ->  Golden Gate University
+[family] GOLDEN GATE UNIVERSITY-SAN FRANCISCO  ->  Golden Gate University
+[family] GOLDEN GATE UNIVERSITY-SEATTLE  ->  Golden Gate University
+[family] GOLDEN GATE UNIVERSITY-SILICON VALLEY  ->  Golden Gate University
+[family] GOLDEN GATE UNIVERSITY-WALNUT CREEK  ->  Golden Gate University
+[exact ] GOLDEN WEST COLLEGE  ->  Golden West College
+[exact ] GOLDEY-BEACOM COLLEGE  ->  Goldey-Beacom College
+[exact ] GONZAGA UNIVERSITY  ->  Gonzaga University
+[exact ] GORDON STATE COLLEGE  ->  Gordon State College
+[exact ] GOSHEN COLLEGE  ->  Goshen College
+[exact ] GRAND CANYON UNIVERSITY  ->  Grand Canyon University
+[exact ] GRAND RAPIDS COMMUNITY COLLEGE  ->  Grand Rapids Community College
+[exact ] GRAND VALLEY STATE UNIVERSITY  ->  Grand Valley State University
+[exact ] GRAYSON COLLEGE  ->  Grayson College
+[exact ] GREAT BAY COMMUNITY COLLEGE  ->  Great Bay Community College
+[exact ] GREEN RIVER COLLEGE  ->  Green River College
+[exact ] GREENVILLE TECHNICAL COLLEGE  ->  Greenville Technical College
+[exact ] GROSSMONT COLLEGE  ->  Grossmont College
+[exact ] GROVE CITY COLLEGE  ->  Grove City College
+[exact ] GUILFORD COLLEGE  ->  Guilford College
+[exact ] GUILFORD TECHNICAL COMMUNITY COLLEGE  ->  Guilford Technical Community College
+[exact ] GULF COAST STATE COLLEGE  ->  Gulf Coast State College
+[exact ] GWYNEDD MERCY UNIVERSITY  ->  Gwynedd Mercy University
+[exact ] HAGERSTOWN COMMUNITY COLLEGE  ->  Hagerstown Community College
+[exact ] HAMPTON UNIVERSITY  ->  Hampton University
+[exact ] HARCUM COLLEGE  ->  Harcum College
+[exact ] HARDIN-SIMMONS UNIVERSITY  ->  Hardin-Simmons University
+[exact ] HARFORD COMMUNITY COLLEGE  ->  Harford Community College
+[family] HARRISBURG AREA COMMUNITY COLLEGE-GETTYSBURG  ->  Harrisburg Area Community College
+[family] HARRISBURG AREA COMMUNITY COLLEGE-HARRISBURG  ->  Harrisburg Area Community College
+[family] HARRISBURG AREA COMMUNITY COLLEGE-LANCASTER  ->  Harrisburg Area Community College
+[family] HARRISBURG AREA COMMUNITY COLLEGE-LEBANON  ->  Harrisburg Area Community College
+[family] HARRISBURG AREA COMMUNITY COLLEGE-YORK  ->  Harrisburg Area Community College
+[exact ] HARRISBURG UNIVERSITY OF SCIENCE AND TECHNOLOGY  ->  Harrisburg University of Science and Technology
+[exact ] HARTWICK COLLEGE  ->  Hartwick College
+[exact ] HARVARD UNIVERSITY  ->  Harvard University
+[exact ] HARVEY MUDD COLLEGE  ->  Harvey Mudd College
+[exact ] HAWAII PACIFIC UNIVERSITY  ->  Hawaii Pacific University
+[exact ] HAWKEYE COMMUNITY COLLEGE  ->  Hawkeye Community College
+[exact ] HAZARD COMMUNITY & TECHNICAL COLLEGE  ->  Hazard Community and Technical College
+[exact ] HEIDELBERG UNIVERSITY  ->  Heidelberg University
+[exact ] HENDERSON COMMUNITY COLLEGE  ->  Henderson Community College
+[exact ] HERKIMER COUNTY COMMUNITY COLLEGE  ->  Herkimer County Community College
+[exact ] HIGH POINT UNIVERSITY  ->  High Point University
+[exact ] HIGHLINE COLLEGE  ->  Highline College
+[exact ] HILLSBOROUGH COMMUNITY COLLEGE  ->  Hillsborough Community College
+[exact ] HILLSDALE COLLEGE  ->  Hillsdale College
+[exact ] HOBART AND WILLIAM SMITH COLLEGES  ->  Hobart William Smith Colleges
+[exact ] HOFSTRA UNIVERSITY  ->  Hofstra University
+[exact ] HOLMES COMMUNITY COLLEGE  ->  Holmes Community College
+[exact ] HOLY FAMILY UNIVERSITY  ->  Holy Family University
+[exact ] HOOD COLLEGE  ->  Hood College
+[exact ] HOPE COLLEGE  ->  Hope College
+[exact ] HOPKINSVILLE COMMUNITY COLLEGE  ->  Hopkinsville Community College
+[exact ] HORRY-GEORGETOWN TECHNICAL COLLEGE  ->  Horry-Georgetown Technical College
+[exact ] HOWARD COMMUNITY COLLEGE  ->  Howard Community College
+[exact ] HOWARD UNIVERSITY  ->  Howard University
+[exact ] HUDSON COUNTY COMMUNITY COLLEGE  ->  Hudson County Community College
+[exact ] HUDSON VALLEY COMMUNITY COLLEGE  ->  Hudson Valley Community College
+[exact ] IDAHO STATE UNIVERSITY  ->  Idaho State University
+[exact ] ILLINOIS CENTRAL COLLEGE  ->  Illinois Central College
+[exact ] ILLINOIS INSTITUTE OF TECHNOLOGY  ->  Illinois Institute of Technology
+[exact ] IMMACULATA UNIVERSITY  ->  Immaculata University
+[exact ] INDIAN HILLS COMMUNITY COLLEGE  ->  Indian Hills Community College
+[exact ] INDIANA INSTITUTE OF TECHNOLOGY  ->  Indiana Institute of Technology
+[exact ] INDIANA INSTITUTE OF TECHNOLOGY-COLLEGE OF PROFESSIONAL STUDIES  ->  Indiana Institute of Technology-College of Professional Studies
+[exact ] INDIANA STATE UNIVERSITY  ->  Indiana State University
+[exact ] INDIANA UNIVERSITY OF PENNSYLVANIA  ->  Indiana University of Pennsylvania-Main Campus
+[exact ] INDIANA UNIVERSITY-BLOOMINGTON  ->  Indiana University-Bloomington
+[exact ] INDIANA UNIVERSITY-EAST  ->  Indiana University-East
+[exact ] INDIANA UNIVERSITY-INDIANAPOLIS  ->  Indiana University-Indianapolis
+[exact ] INDIANA UNIVERSITY-SOUTH BEND  ->  Indiana University-South Bend
+[exact ] IONA UNIVERSITY  ->  Iona University
+[exact ] IOWA STATE UNIVERSITY  ->  Iowa State University
+[exact ] IOWA WESTERN COMMUNITY COLLEGE  ->  Iowa Western Community College
+[exact ] IRVINE VALLEY COLLEGE  ->  Irvine Valley College
+[exact ] ITAWAMBA COMMUNITY COLLEGE  ->  Itawamba Community College
+[exact ] ITHACA COLLEGE  ->  Ithaca College
+[exact ] IVY TECH COMMUNITY COLLEGE  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-ANDERSON  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-BLOOMINGTON  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-COLUMBUS  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-EAST CENTRAL  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-HAMILTON COUNTY  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-INDIANAPOLIS  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-KOKOMO  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-LAFAYETTE  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-LAWRENCEBURG  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-MARION  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-NORTHCENTRAL  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-NORTHEAST  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-NORTHWEST  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-RICHMOND  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-SOUTH CENTRAL  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-SOUTHEAST  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-SOUTHWEST  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-VALPARAISO  ->  Ivy Tech Community College
+[family] IVY TECH COMMUNITY COLLEGE-WABASH VALLEY  ->  Ivy Tech Community College
+[exact ] J SARGEANT REYNOLDS COMMUNITY COLLEGE  ->  J Sargeant Reynolds Community College
+[exact ] JACKSONVILLE STATE UNIVERSITY  ->  Jacksonville State University
+[exact ] JACKSONVILLE UNIVERSITY  ->  Jacksonville University
+[exact ] JAMES MADISON UNIVERSITY  ->  James Madison University
+[exact ] JAMESTOWN COMMUNITY COLLEGE  ->  Jamestown Community College
+[exact ] JEFFERSON COLLEGE  ->  Jefferson College
+[exact ] JEFFERSON COMMUNITY & TECHNICAL COLLEGE  ->  Jefferson Community and Technical College
+[exact ] JEFFERSON STATE COMMUNITY COLLEGE  ->  Jefferson State Community College
+[exact ] JOHN CARROLL UNIVERSITY  ->  John Carroll University
+[exact ] JOHNS HOPKINS UNIVERSITY  ->  Johns Hopkins University
+[exact ] JOHNSON & WALES UNIVERSITY-CHARLOTTE  ->  Johnson & Wales University-Charlotte
+[family] JOHNSON & WALES UNIVERSITY-DENVER  ->  Johnson & Wales University-Online
+[family] JOHNSON & WALES UNIVERSITY-NORTH MIAMI  ->  Johnson & Wales University-Online
+[exact ] JOHNSON & WALES UNIVERSITY-ONLINE  ->  Johnson & Wales University-Online
+[exact ] JOHNSON & WALES UNIVERSITY-PROVIDENCE  ->  Johnson & Wales University-Providence
+[exact ] JOHNSON COUNTY COMMUNITY COLLEGE  ->  Johnson County Community College
+[exact ] JOLIET JUNIOR COLLEGE  ->  Joliet Junior College
+[exact ] JONES COUNTY JUNIOR COLLEGE  ->  Jones County Junior College
+[exact ] JUNIATA COLLEGE  ->  Juniata College
+[exact ] KANSAS CITY KANSAS COMMUNITY COLLEGE  ->  Kansas City Kansas Community College
+[exact ] KAPI'OLANI COMMUNITY COLLEGE  ->  Kapiolani Community College
+[exact ] KEAN UNIVERSITY  ->  Kean University
+[family] KEISER UNIVERSITY  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY -  CLEARWATER  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY - NPR  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY - RESIDENTIAL  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY- KENDALL  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY- MIAMI  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-DAYTONA  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-FT MYERS  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-JACKSONVILLE  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-LAKELAND  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-MELBOURNE  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-ORLANDO  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-PEMBROKE PINES  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-PORT ST LUCIE  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-SARASOTA  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-TALLAHASSEE  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-TAMPA  ->  Keiser University-Ft Lauderdale
+[family] KEISER UNIVERSITY-WEST PALM BEACH  ->  Keiser University-Ft Lauderdale
+[exact ] KENNEBEC VALLEY COMMUNITY COLLEGE  ->  Kennebec Valley Community College
+[exact ] KENNESAW STATE UNIVERSITY  ->  Kennesaw State University
+[family] KENT STATE UNIVERSITY  ->  Kent State University at Kent
+[family] KENT STATE UNIVERSITY-ASHTABULA REGIONAL CAMPUS  ->  Kent State University at Ashtabula
+[family] KENT STATE UNIVERSITY-EAST LIVERPOOL REGNL CAMPUS  ->  Kent State University at East Liverpool
+[exact ] KENT STATE UNIVERSITY-GEAUGA CAMPUS  ->  Kent State University at Geauga
+[family] KENT STATE UNIVERSITY-SALEM REGIONAL CAMPUS  ->  Kent State University at Salem
+[exact ] KENT STATE UNIVERSITY-STARK CAMPUS  ->  Kent State University at Stark
+[family] KENT STATE UNIVERSITY-TRUMBULL REGIONAL CAMPUS  ->  Kent State University at Trumbull
+[family] KENT STATE UNIVERSITY-TUSCARAWAS REGIONAL CAMPUS  ->  Kent State University at Tuscarawas
+[exact ] KENTUCKY COMMUNITY AND TECHNICAL COLLEGE SYSTEM  ->  Kentucky Community and Technical College System
+[exact ] KENYON COLLEGE  ->  Kenyon College
+[exact ] KEUKA COLLEGE  ->  Keuka College
+[exact ] KEYSTONE COLLEGE  ->  Keystone College
+[exact ] KILGORE COLLEGE  ->  Kilgore College
+[exact ] KING'S COLLEGE  ->  King's College
+[exact ] KIRKWOOD COMMUNITY COLLEGE  ->  Kirkwood Community College
+[exact ] KNOX COLLEGE  ->  Knox College
+[exact ] KUTZTOWN UNIVERSITY OF PENNSYLVANIA  ->  Kutztown University of Pennsylvania
+[family] Keiser University-San Marcos  ->  Keiser University-Ft Lauderdale
+[exact ] LA ROCHE UNIVERSITY  ->  La Roche University
+[exact ] LA SALLE UNIVERSITY  ->  La Salle University
+[exact ] LA SIERRA UNIVERSITY  ->  La Sierra University
+[exact ] LACKAWANNA COLLEGE  ->  Lackawanna College
+[exact ] LAFAYETTE COLLEGE  ->  Lafayette College
+[exact ] LAKE ERIE COLLEGE  ->  Lake Erie College
+[exact ] LAKE FOREST COLLEGE  ->  Lake Forest College
+[exact ] LAKE REGION STATE COLLEGE  ->  Lake Region State College
+[exact ] LAKE SUPERIOR COLLEGE  ->  Lake Superior College
+[exact ] LAKE SUPERIOR STATE UNIVERSITY  ->  Lake Superior State University
+[exact ] LAKELAND COMMUNITY COLLEGE  ->  Lakeland Community College
+[exact ] LAKELAND UNIVERSITY  ->  Lakeland University
+[exact ] LANDER UNIVERSITY  ->  Lander University
+[exact ] LANE COMMUNITY COLLEGE  ->  Lane Community College
+[exact ] LANEY COLLEGE  ->  Laney College
+[exact ] LANSING COMMUNITY COLLEGE  ->  Lansing Community College
+[exact ] LARAMIE COUNTY COMMUNITY COLLEGE  ->  Laramie County Community College
+[exact ] LAS POSITAS COLLEGE  ->  Las Positas College
+[exact ] LASELL UNIVERSITY  ->  Lasell University
+[exact ] LAUREL RIDGE COMMUNITY COLLEGE  ->  Laurel Ridge Community College
+[exact ] LAWRENCE TECHNOLOGICAL UNIVERSITY  ->  Lawrence Technological University
+[exact ] LE MOYNE COLLEGE  ->  Le Moyne College
+[exact ] LEBANON VALLEY COLLEGE  ->  Lebanon Valley College
+[exact ] LEE COLLEGE  ->  Lee College
+[exact ] LEEWARD COMMUNITY COLLEGE  ->  Leeward Community College
+[exact ] LEHIGH CARBON COMMUNITY COLLEGE  ->  Lehigh Carbon Community College
+[exact ] LEHIGH UNIVERSITY  ->  Lehigh University
+[exact ] LESLEY UNIVERSITY  ->  Lesley University
+[exact ] LETOURNEAU UNIVERSITY  ->  LeTourneau University
+[exact ] LEWIS & CLARK COLLEGE  ->  Lewis & Clark College
+[exact ] LIBERTY UNIVERSITY  ->  Liberty University
+[exact ] LINCOLN LAND COMMUNITY COLLEGE  ->  Lincoln Land Community College
+[exact ] LINCOLN MEMORIAL UNIVERSITY  ->  Lincoln Memorial University
+[exact ] LINCOLN UNIVERSITY  ->  Lincoln University
+[exact ] LINN-BENTON COMMUNITY COLLEGE  ->  Linn-Benton Community College
+[exact ] LONE STAR COLLEGE SYSTEM  ->  Lone Star College System
+[exact ] LONG BEACH CITY COLLEGE  ->  Long Beach City College
+[exact ] LONG ISLAND UNIVERSITY  ->  Long Island University
+[exact ] LONGWOOD UNIVERSITY  ->  Longwood University
+[exact ] LORAIN COUNTY COMMUNITY COLLEGE  ->  Lorain County Community College
+[exact ] LOS ANGELES CITY COLLEGE  ->  Los Angeles City College
+[exact ] LOS ANGELES HARBOR COLLEGE  ->  Los Angeles Harbor College
+[exact ] LOS ANGELES PIERCE COLLEGE  ->  Los Angeles Pierce College
+[exact ] LOS ANGELES SOUTHWEST COLLEGE  ->  Los Angeles Southwest College
+[exact ] LOS ANGELES VALLEY COLLEGE  ->  Los Angeles Valley College
+[exact ] LOS MEDANOS COLLEGE  ->  Los Medanos College
+[exact ] LOUISIANA DELTA COMMUNITY COLLEGE  ->  Louisiana Delta Community College
+[exact ] LOUISIANA STATE UNIVERSITY-EUNICE  ->  Louisiana State University-Eunice
+[exact ] LOUISIANA STATE UNIVERSITY-SHREVEPORT  ->  Louisiana State University-Shreveport
+[exact ] LOWER COLUMBIA COLLEGE  ->  Lower Columbia College
+[exact ] LOYOLA MARYMOUNT UNIVERSITY  ->  Loyola Marymount University
+[exact ] LOYOLA UNIVERSITY CHICAGO  ->  Loyola University Chicago
+[exact ] LOYOLA UNIVERSITY MARYLAND  ->  Loyola University Maryland
+[exact ] LUZERNE COUNTY COMMUNITY COLLEGE  ->  Luzerne County Community College
+[exact ] LYCOMING COLLEGE  ->  Lycoming College
+[exact ] LYNN UNIVERSITY  ->  Lynn University
+[exact ] MACALESTER COLLEGE  ->  Macalester College
+[exact ] MACOMB COMMUNITY COLLEGE  ->  Macomb Community College
+[exact ] MADISONVILLE COMMUNITY COLLEGE  ->  Madisonville Community College
+[exact ] MANCHESTER COMMUNITY COLLEGE  ->  Manchester Community College
+[exact ] MANOR COLLEGE  ->  Manor College
+[family] MARICOPA COMMUNITY COLLEGE DISTRICT  ->  Maricopa Community College System Office
+[exact ] MARIETTA COLLEGE  ->  Marietta College
+[exact ] MARION TECHNICAL COLLEGE  ->  Marion Technical College
+[exact ] MARIST COLLEGE  ->  Marist College
+[exact ] MARQUETTE UNIVERSITY  ->  Marquette University
+[exact ] MARSHALL UNIVERSITY  ->  Marshall University
+[exact ] MARYLAND UNIVERSITY OF INTEGRATIVE HEALTH  ->  Maryland University of Integrative Health
+[exact ] MARYMOUNT MANHATTAN COLLEGE  ->  Marymount Manhattan College
+[exact ] MARYVILLE UNIVERSITY OF SAINT LOUIS  ->  Maryville University of Saint Louis
+[exact ] MARYWOOD UNIVERSITY  ->  Marywood University
+[exact ] MASSACHUSETTS BAY COMMUNITY COLLEGE  ->  Massachusetts Bay Community College
+[exact ] MASSASOIT COMMUNITY COLLEGE  ->  Massasoit Community College
+[exact ] MAYSVILLE COMMUNITY & TECHNICAL COLLEGE  ->  Maysville Community and Technical College
+[exact ] MAYVILLE STATE UNIVERSITY  ->  Mayville State University
+[exact ] MCDANIEL COLLEGE  ->  McDaniel College
+[exact ] MCLENNAN COMMUNITY COLLEGE  ->  McLennan Community College
+[exact ] MCPHS UNIVERSITY  ->  MCPHS University
+[exact ] MERCER COUNTY COMMUNITY COLLEGE  ->  Mercer County Community College
+[exact ] MERCER UNIVERSITY  ->  Mercer University
+[exact ] MERCY COLLEGE OF OHIO  ->  Mercy College of Ohio
+[exact ] MERCY UNIVERSITY  ->  Mercy University
+[exact ] MERCYHURST UNIVERSITY  ->  Mercyhurst University
+[family] MERCYHURST UNIVERSITY-NORTH EAST CAMPUS  ->  Mercyhurst University
+[exact ] MERRIMACK COLLEGE  ->  Merrimack College
+[exact ] MERRITT COLLEGE  ->  Merritt College
+[exact ] MESA COMMUNITY COLLEGE  ->  Mesa Community College
+[exact ] MESSIAH UNIVERSITY  ->  Messiah University
+[exact ] METROPOLITAN COMMUNITY COLLEGE  ->  Metropolitan Community College Area
+[exact ] MIAMI DADE COLLEGE  ->  Miami Dade College
+[exact ] MIAMI UNIVERSITY-HAMILTON  ->  Miami University-Hamilton
+[exact ] MIAMI UNIVERSITY-MIDDLETOWN  ->  Miami University-Middletown
+[exact ] MIAMI UNIVERSITY-OXFORD  ->  Miami University-Oxford
+[exact ] MICHIGAN STATE UNIVERSITY  ->  Michigan State University
+[exact ] MICHIGAN TECHNOLOGICAL UNIVERSITY  ->  Michigan Technological University
+[exact ] MIDDLE TENNESSEE STATE UNIVERSITY  ->  Middle Tennessee State University
+[exact ] MIDDLESEX COLLEGE  ->  Middlesex College
+[exact ] MIDDLESEX COMMUNITY COLLEGE  ->  Middlesex Community College
+[exact ] MIDLAND COLLEGE  ->  Midland College
+[exact ] MIDLANDS TECHNICAL COLLEGE  ->  Midlands Technical College
+[exact ] MILLERSVILLE UNIVERSITY OF PENNSYLVANIA  ->  Millersville University of Pennsylvania
+[exact ] MILWAUKEE AREA TECHNICAL COLLEGE  ->  Milwaukee Area Technical College
+[exact ] MILWAUKEE SCHOOL OF ENGINEERING  ->  Milwaukee School of Engineering
+[exact ] MINNEAPOLIS COMMUNITY AND TECHNICAL COLLEGE  ->  Minneapolis Community and Technical College
+[exact ] MINNESOTA STATE COMMUNITY AND TECHNICAL COLLEGE  ->  Minnesota State Community and Technical College
+[exact ] MINNESOTA STATE UNIVERSITY MANKATO  ->  Minnesota State University-Mankato
+[exact ] MIRACOSTA COLLEGE  ->  MiraCosta College
+[exact ] MISERICORDIA UNIVERSITY  ->  Misericordia University
+[exact ] MISSION COLLEGE  ->  Mission College
+[exact ] MISSISSIPPI COLLEGE  ->  Mississippi College
+[exact ] MISSISSIPPI GULF COAST COMMUNITY COLLEGE  ->  Mississippi Gulf Coast Community College
+[exact ] MISSISSIPPI STATE UNIVERSITY  ->  Mississippi State University
+[family] MISSOURI STATE UNIVERSITY  ->  Missouri State University-Springfield
+[exact ] MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY  ->  Missouri University of Science and Technology
+[exact ] MITCHELL COMMUNITY COLLEGE  ->  Mitchell Community College
+[exact ] MOBERLY AREA COMMUNITY COLLEGE  ->  Moberly Area Community College
+[exact ] MODESTO JUNIOR COLLEGE  ->  Modesto Junior College
+[family] MOHAWK VALLEY COMMUNITY COLLEGE-UTICA BRANCH  ->  Mohawk Valley Community College
+[exact ] MONMOUTH UNIVERSITY  ->  Monmouth University
+[family] MONMOUTH UNIVERSITY -  MONMOUTH PARK CORPORATE CENTER  ->  Monmouth University
+[exact ] MONROE COMMUNITY COLLEGE  ->  Monroe Community College
+[family] MONTANA STATE UNIVERSITY-BOZEMAN  ->  Montana State University
+[exact ] MONTCLAIR STATE UNIVERSITY  ->  Montclair State University
+[exact ] MONTGOMERY COLLEGE  ->  Montgomery College
+[exact ] MONTGOMERY COMMUNITY COLLEGE  ->  Montgomery Community College
+[exact ] MONTGOMERY COUNTY COMMUNITY COLLEGE  ->  Montgomery County Community College
+[exact ] MOORPARK COLLEGE  ->  Moorpark College
+[exact ] MORAINE VALLEY COMMUNITY COLLEGE  ->  Moraine Valley Community College
+[exact ] MORAVIAN UNIVERSITY  ->  Moravian University
+[exact ] MOREHEAD STATE UNIVERSITY  ->  Morehead State University
+[exact ] MORGAN STATE UNIVERSITY  ->  Morgan State University
+[exact ] MOTT COMMUNITY COLLEGE  ->  Mott Community College
+[exact ] MOUNT ALOYSIUS COLLEGE  ->  Mount Aloysius College
+[exact ] MOUNT HOLYOKE COLLEGE  ->  Mount Holyoke College
+[exact ] MOUNT SAINT MARY COLLEGE  ->  Mount Saint Mary College
+[exact ] MOUNT ST. MARY'S UNIVERSITY  ->  Mount St. Mary's University
+[exact ] MOUNT VERNON NAZARENE UNIVERSITY  ->  Mount Vernon Nazarene University
+[exact ] MOUNTAIN EMPIRE COMMUNITY COLLEGE  ->  Mountain Empire Community College
+[exact ] MOUNTWEST COMMUNITY & TECHNICAL COLLEGE  ->  Mountwest Community and Technical College
+[exact ] MT HOOD COMMUNITY COLLEGE  ->  Mt Hood Community College
+[family] MT. SAN JACINTO COLLEGE  ->  Mt San Jacinto Community College District
+[exact ] MUHLENBERG COLLEGE  ->  Muhlenberg College
+[exact ] MURRAY STATE COLLEGE  ->  Murray State College
+[exact ] MURRAY STATE UNIVERSITY  ->  Murray State University
+[exact ] MUSKINGUM UNIVERSITY  ->  Muskingum University
+[exact ] NAPA VALLEY COLLEGE  ->  Napa Valley College
+[exact ] NASHUA COMMUNITY COLLEGE  ->  Nashua Community College
+[exact ] NASHVILLE STATE COMMUNITY COLLEGE  ->  Nashville State Community College
+[exact ] NASSAU COMMUNITY COLLEGE  ->  Nassau Community College
+[family] NATIONAL  AMERICAN UNIVERSITY-BELLEVUE  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY  ->  National American University-Rapid City
+[family] NATIONAL AMERICAN UNIVERSITY-ALBUQUERQUE  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-ALBUQUERQUE WEST  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-AUSTIN  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-AUSTIN SOUTH  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-BURNSVILLE  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-CENTENNIAL  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-COLORADO SPRINGS  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-COLORADO SPRINGS SOUTH  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-GARDEN CITY  ->  National American University-Rapid City
+[family] NATIONAL AMERICAN UNIVERSITY-GEORGETOWN  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-HOUSTON  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-INDIANAPOLIS  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-KILLEEN  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-LEE'S SUMMIT  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-LEWISVILLE  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-MESQUITE  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-RICHARDSON  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-ROCHESTER  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-TULSA  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-WELDON SPRING  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-WESTWOOD TEACH-OUT SITE  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-WICHITA  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-WICHITA WEST  ->  National American University-Ellsworth
+[family] NATIONAL AMERICAN UNIVERSITY-ZONA ROSA  ->  National American University-Ellsworth
+[exact ] NATIONAL UNIVERSITY  ->  National University
+[exact ] NAVARRO COLLEGE  ->  Navarro College
+[exact ] NEUMANN UNIVERSITY  ->  Neumann University
+[exact ] NEW ENGLAND COLLEGE  ->  New England College
+[exact ] NEW JERSEY CITY UNIVERSITY  ->  New Jersey City University
+[exact ] NEW MEXICO MILITARY INSTITUTE  ->  New Mexico Military Institute
+[exact ] NEW MEXICO STATE UNIVERSITY-ALAMOGORDO  ->  New Mexico State University-Alamogordo
+[exact ] NEW MEXICO STATE UNIVERSITY-MAIN CAMPUS  ->  New Mexico State University-Main Campus
+[exact ] NEW RIVER COMMUNITY COLLEGE  ->  New River Community College
+[exact ] NEW SCHOOL, THE  ->  The New School
+[family] NEW YORK INSTITUTE OF TECHNOLOGY-MANHATTAN CAMPUS  ->  New York Institute of Technology
+[family] NEW YORK INSTITUTE OF TECHNOLOGY-OLD WESTBURY  ->  New York Institute of Technology
+[exact ] NEW YORK UNIVERSITY  ->  New York University
+[exact ] NHTI-CONCORD'S COMMUNITY COLLEGE  ->  NHTI-Concord's Community College
+[exact ] NIAGARA UNIVERSITY  ->  Niagara University
+[exact ] NICHOLLS STATE UNIVERSITY  ->  Nicholls State University
+[exact ] NORFOLK STATE UNIVERSITY  ->  Norfolk State University
+[exact ] NORMANDALE COMMUNITY COLLEGE  ->  Normandale Community College
+[exact ] NORTH CAROLINA CENTRAL UNIVERSITY  ->  North Carolina Central University
+[exact ] NORTH CAROLINA STATE UNIVERSITY AT RALEIGH  ->  North Carolina State University at Raleigh
+[exact ] NORTH CENTRAL TEXAS COLLEGE  ->  North Central Texas College
+[exact ] NORTH DAKOTA STATE COLLEGE OF SCIENCE  ->  North Dakota State College of Science
+[exact ] NORTH DAKOTA STATE UNIVERSITY MAIN CAMPUS  ->  North Dakota State University-Main Campus
+[exact ] NORTH IDAHO COLLEGE  ->  North Idaho College
+[exact ] NORTH SEATTLE COLLEGE  ->  North Seattle College
+[exact ] NORTH SHORE COMMUNITY COLLEGE  ->  North Shore Community College
+[exact ] NORTHAMPTON COUNTY AREA COMMUNITY COLLEGE  ->  Northampton County Area Community College
+[family] NORTHAMPTON COUNTY AREA COMMUNITY COLLEGE-MONROE  ->  Northampton County Area Community College
+[exact ] NORTHCENTRAL UNIVERSITY  ->  Northcentral University
+[exact ] NORTHEAST COMMUNITY COLLEGE  ->  Northeast Community College
+[exact ] NORTHEAST LAKEVIEW COLLEGE  ->  Northeast Lakeview College
+[exact ] NORTHEAST TEXAS COMMUNITY COLLEGE  ->  Northeast Texas Community College
+[exact ] NORTHEAST WISCONSIN TECHNICAL COLLEGE  ->  Northeast Wisconsin Technical College
+[exact ] NORTHEASTERN STATE UNIVERSITY  ->  Northeastern State University
+[exact ] NORTHEASTERN UNIVERSITY  ->  Northeastern University
+[exact ] NORTHEASTERN UNIVERSITY OAKLAND  ->  Northeastern University Oakland
+[exact ] NORTHERN ARIZONA UNIVERSITY  ->  Northern Arizona University
+[exact ] NORTHERN ILLINOIS UNIVERSITY  ->  Northern Illinois University
+[exact ] NORTHERN MICHIGAN UNIVERSITY  ->  Northern Michigan University
+[exact ] NORTHERN PENNSYLVANIA REGIONAL COLLEGE  ->  Northern Pennsylvania Regional College
+[exact ] NORTHERN VIRGINIA COMMUNITY COLLEGE  ->  Northern Virginia Community College
+[exact ] NORTHWEST ARKANSAS COMMUNITY COLLEGE  ->  NorthWest Arkansas Community College
+[exact ] NORTHWEST COLLEGE  ->  Northwest College
+[exact ] NORTHWEST MISSOURI STATE UNIVERSITY  ->  Northwest Missouri State University
+[exact ] NORTHWEST STATE COMMUNITY COLLEGE  ->  Northwest State Community College
+[exact ] NORTHWEST VISTA COLLEGE  ->  Northwest Vista College
+[exact ] NORTHWESTERN MICHIGAN COLLEGE  ->  Northwestern Michigan College
+[exact ] NORTHWESTERN UNIVERSITY  ->  Northwestern University
+[exact ] NORTHWOOD TECHNICAL COLLEGE  ->  Northwood Technical College
+[exact ] NORWICH UNIVERSITY  ->  Norwich University
+[exact ] NOTRE DAME OF MARYLAND UNIVERSITY  ->  Notre Dame of Maryland University
+[exact ] NOVA SOUTHEASTERN UNIVERSITY  ->  Nova Southeastern University
+[exact ] Nazareth University  ->  Nazareth University
+[exact ] OAKLAND COMMUNITY COLLEGE  ->  Oakland Community College
+[exact ] OAKLAND UNIVERSITY  ->  Oakland University
+[exact ] OAKTON COLLEGE  ->  Oakton College
+[exact ] OBERLIN COLLEGE  ->  Oberlin College
+[exact ] OCEAN COUNTY COLLEGE  ->  Ocean County College
+[exact ] ODESSA COLLEGE  ->  Odessa College
+[exact ] OHIO NORTHERN UNIVERSITY  ->  Ohio Northern University
+[exact ] OHIO STATE UNIVERSITY  ->  Ohio State University-Main Campus
+[exact ] OHIO STATE UNIVERSITY-LIMA CAMPUS  ->  Ohio State University-Lima Campus
+[exact ] OHIO STATE UNIVERSITY-MANSFIELD CAMPUS  ->  Ohio State University-Mansfield Campus
+[exact ] OHIO STATE UNIVERSITY-MARION CAMPUS  ->  Ohio State University-Marion Campus
+[exact ] OHIO STATE UNIVERSITY-NEWARK CAMPUS  ->  Ohio State University-Newark Campus
+[family] OHIO UNIVERSITY-CHILLICOTHE BRANCH  ->  Ohio University-Chillicothe Campus
+[exact ] OHIO UNIVERSITY-EASTERN CAMPUS  ->  Ohio University-Eastern Campus
+[family] OHIO UNIVERSITY-LANCASTER BRANCH  ->  Ohio University-Lancaster Campus
+[exact ] OHIO UNIVERSITY-MAIN CAMPUS  ->  Ohio University-Main Campus
+[exact ] OHIO UNIVERSITY-SOUTHERN CAMPUS  ->  Ohio University-Southern Campus
+[family] OHIO UNIVERSITY-ZANESVILLE BRANCH  ->  Ohio University-Zanesville Campus
+[exact ] OHIO WESLEYAN UNIVERSITY  ->  Ohio Wesleyan University
+[exact ] OHLONE COLLEGE  ->  Ohlone College
+[exact ] OKLAHOMA CITY COMMUNITY COLLEGE  ->  Oklahoma City Community College
+[exact ] OKLAHOMA CITY UNIVERSITY  ->  Oklahoma City University
+[exact ] OKLAHOMA STATE UNIVERSITY-MAIN CAMPUS  ->  Oklahoma State University-Main Campus
+[exact ] OLD DOMINION UNIVERSITY  ->  Old Dominion University
+[exact ] OLYMPIC COLLEGE  ->  Olympic College
+[exact ] ONONDAGA COMMUNITY COLLEGE  ->  Onondaga Community College
+[exact ] ORAL ROBERTS UNIVERSITY  ->  Oral Roberts University
+[exact ] ORANGE COAST COLLEGE  ->  Orange Coast College
+[exact ] ORANGE COUNTY COMMUNITY COLLEGE  ->  Orange County Community College
+[exact ] OREGON STATE UNIVERSITY  ->  Oregon State University
+[exact ] OREGON STATE UNIVERSITY-CASCADES CAMPUS  ->  Oregon State University-Cascades Campus
+[exact ] OTTERBEIN UNIVERSITY  ->  Otterbein University
+[exact ] OWENS COMMUNITY COLLEGE  ->  Owens Community College
+[exact ] OWENSBORO COMMUNITY & TECHNICAL COLLEGE  ->  Owensboro Community and Technical College
+[family] PACE UNIVERSITY-NEW YORK  ->  Pace University
+[family] PACE UNIVERSITY-PLEASANTVILLE BRIARCLIFF  ->  Pace University
+[family] PACE UNIVERSITY-WHITE PLAINS  ->  Pace University
+[exact ] PACIFIC UNIVERSITY  ->  Pacific University
+[exact ] PALM BEACH STATE COLLEGE  ->  Palm Beach State College
+[exact ] PALO ALTO COLLEGE  ->  Palo Alto College
+[exact ] PALOMAR COLLEGE  ->  Palomar College
+[exact ] PARADISE VALLEY COMMUNITY COLLEGE  ->  Paradise Valley Community College
+[exact ] PARK UNIVERSITY  ->  Park University
+[exact ] PARKER UNIVERSITY  ->  Parker University
+[exact ] PARKLAND COLLEGE  ->  Parkland College
+[exact ] PASADENA CITY COLLEGE  ->  Pasadena City College
+[exact ] PASCO-HERNANDO STATE COLLEGE  ->  Pasco-Hernando State College
+[exact ] PASSAIC COUNTY COMMUNITY COLLEGE  ->  Passaic County Community College
+[exact ] PEARL RIVER COMMUNITY COLLEGE  ->  Pearl River Community College
+[family] PEARL RIVER COMMUNITY COLLEGE-FORREST COUNTY CENTER  ->  Pearl River Community College
+[exact ] PEIRCE COLLEGE  ->  Peirce College
+[exact ] PELLISSIPPI STATE COMMUNITY COLLEGE  ->  Pellissippi State Community College
+[exact ] PENNSYLVANIA COLLEGE OF HEALTH SCIENCES  ->  Pennsylvania College of Health Sciences
+[exact ] PENNSYLVANIA COLLEGE OF TECHNOLOGY  ->  Pennsylvania College of Technology
+[exact ] PENNSYLVANIA HIGHLANDS COMMUNITY COLLEGE  ->  Pennsylvania Highlands Community College
+[family] PENNSYLVANIA STATE UNIV-HARRISBURG CAPITAL COLLEGE  ->  Pennsylvania State University-Penn State Harrisburg
+[family] PENNSYLVANIA STATE UNIV-LEHIGH VLY BERKS-LEHIGH  ->  Pennsylvania State University-Penn State Berks
+[family] PENNSYLVANIA STATE UNIV-SCHUYLKILL-CAPITAL COLLEGE  ->  Pennsylvania State University-Penn State Schuylkill
+[exact ] PENNSYLVANIA STATE UNIVERSITY, THE  ->  Pennsylvania State University-Main Campus
+[family] PENNSYLVANIA STATE UNIVERSITY-ABINGTON COLLEGE  ->  Pennsylvania State University-Penn State Abington
+[family] PENNSYLVANIA STATE UNIVERSITY-ALTOONA COLLEGE  ->  Pennsylvania State University-Penn State Altoona
+[family] PENNSYLVANIA STATE UNIVERSITY-BEAVER  ->  Pennsylvania State University-Penn State Beaver
+[family] PENNSYLVANIA STATE UNIVERSITY-BERKS-LEHIGH VALLEY  ->  Pennsylvania State University-Penn State Lehigh Valley
+[family] PENNSYLVANIA STATE UNIVERSITY-DELAWARE  ->  Pennsylvania State University-Main Campus
+[family] PENNSYLVANIA STATE UNIVERSITY-DU BOIS  ->  Pennsylvania State University-Main Campus
+[family] PENNSYLVANIA STATE UNIVERSITY-ERIE BEHREND COLLEGE  ->  Pennsylvania State University-Penn State Erie-Behrend College
+[family] PENNSYLVANIA STATE UNIVERSITY-FAYETTE  ->  Pennsylvania State University-Main Campus
+[family] PENNSYLVANIA STATE UNIVERSITY-HAZLETON  ->  Pennsylvania State University-Penn State Hazleton
+[family] PENNSYLVANIA STATE UNIVERSITY-MCKEESPORT  ->  Pennsylvania State University-Main Campus
+[family] PENNSYLVANIA STATE UNIVERSITY-MONT ALTO CAMPUS  ->  Pennsylvania State University-Penn State Mont Alto
+[family] PENNSYLVANIA STATE UNIVERSITY-NEW KENSINGTON  ->  Pennsylvania State University-Penn State New Kensington
+[exact ] PENNSYLVANIA STATE UNIVERSITY-PENN STATE GREAT VALLEY  ->  Pennsylvania State University-Penn State Great Valley
+[family] PENNSYLVANIA STATE UNIVERSITY-SHENANGO  ->  Pennsylvania State University-Penn State Shenango
+[family] PENNSYLVANIA STATE UNIVERSITY-WILKES-BARRE  ->  Pennsylvania State University-Penn State Wilkes-Barre
+[exact ] PENNSYLVANIA STATE UNIVERSITY-WORLD CAMPUS  ->  Pennsylvania State University-World Campus
+[family] PENNSYLVANIA STATE UNIVERSITY-WORTHINGTON SCRANTON  ->  Pennsylvania State University-Penn State Scranton
+[family] PENNSYLVANIA STATE UNIVERSITY-YORK  ->  Pennsylvania State University-Penn State York
+[exact ] PENNSYLVANIA WESTERN UNIVERSITY  ->  Pennsylvania Western University
+[exact ] PENSACOLA STATE COLLEGE  ->  Pensacola State College
+[exact ] PEPPERDINE UNIVERSITY  ->  Pepperdine University
+[exact ] PHILANDER SMITH UNIVERSITY  ->  Philander Smith University
+[exact ] PHOENIX COLLEGE  ->  Phoenix College
+[exact ] PIEDMONT VIRGINIA COMMUNITY COLLEGE  ->  Piedmont Virginia Community College
+[exact ] PIERCE COLLEGE  ->  Pierce College District
+[exact ] PIERPONT COMMUNITY AND TECHNICAL COLLEGE  ->  Pierpont Community and Technical College
+[exact ] PIKES PEAK STATE COLLEGE  ->  Pikes Peak State College
+[exact ] PIMA COMMUNITY COLLEGE  ->  Pima Community College
+[exact ] PITT COMMUNITY COLLEGE  ->  Pitt Community College
+[exact ] PITTSBURG STATE UNIVERSITY  ->  Pittsburg State University
+[exact ] PITTSBURGH INSTITUTE OF AERONAUTICS  ->  Pittsburgh Institute of Aeronautics
+[exact ] PITTSBURGH INSTITUTE OF MORTUARY SCIENCE INC  ->  Pittsburgh Institute of Mortuary Science Inc
+[exact ] PITTSBURGH TECHNICAL COLLEGE  ->  Pittsburgh Technical College
+[exact ] POINT PARK UNIVERSITY  ->  Point Park University
+[exact ] PORTLAND COMMUNITY COLLEGE  ->  Portland Community College
+[exact ] PORTLAND STATE UNIVERSITY  ->  Portland State University
+[exact ] PRATT INSTITUTE-MAIN  ->  Pratt Institute-Main
+[exact ] PRINCE GEORGE'S COMMUNITY COLLEGE  ->  Prince George's Community College
+[exact ] PROVIDENCE COLLEGE  ->  Providence College
+[exact ] PUEBLO COMMUNITY COLLEGE  ->  Pueblo Community College
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC ANDERSON  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC COLUMBUS  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC INDIANAPOLIS  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC KOKOMO  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC LAFAYETTE  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC NEW ALBANY  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC RICHMOND  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC SOUTH BEND  ->  Purdue University-Main Campus
+[family] PURDUE UNIVERSITY - PURDUE POLYTECHNIC VINCENNES  ->  Purdue University-Main Campus
+[exact ] PURDUE UNIVERSITY FORT WAYNE  ->  Purdue University Fort Wayne
+[family] PURDUE UNIVERSITY GLOBAL-AUGUSTA  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-CEDAR FALLS  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-CEDAR RAPIDS  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-DAVENPORT  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-DES MOINES  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-HAGERSTOWN  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-INDIANAPOLIS  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-LEWISTON  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-LINCOLN  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-MASON CITY  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-MILWAUKEE  ->  Purdue University Global
+[family] PURDUE UNIVERSITY GLOBAL-OMAHA  ->  Purdue University Global
+[exact ] PURDUE UNIVERSITY-MAIN CAMPUS  ->  Purdue University-Main Campus
+[exact ] QUEENS UNIVERSITY OF CHARLOTTE  ->  Queens University of Charlotte
+[exact ] QUINCY COLLEGE  ->  Quincy College
+[exact ] QUINSIGAMOND COMMUNITY COLLEGE  ->  Quinsigamond Community College
+[exact ] RADFORD UNIVERSITY  ->  Radford University
+[exact ] RAMAPO COLLEGE OF NEW JERSEY  ->  Ramapo College of New Jersey
+[exact ] RANDOLPH COMMUNITY COLLEGE  ->  Randolph Community College
+[exact ] RANGER COLLEGE  ->  Ranger College
+[exact ] RAPPAHANNOCK COMMUNITY COLLEGE  ->  Rappahannock Community College
+[exact ] RARITAN VALLEY COMMUNITY COLLEGE  ->  Raritan Valley Community College
+[exact ] READING AREA COMMUNITY COLLEGE  ->  Reading Area Community College
+[exact ] RED ROCKS COMMUNITY COLLEGE  ->  Red Rocks Community College
+[exact ] REDLANDS COMMUNITY COLLEGE  ->  Redlands Community College
+[exact ] REEDLEY COLLEGE  ->  Reedley College
+[exact ] REGIS UNIVERSITY  ->  Regis University
+[exact ] RENSSELAER POLYTECHNIC INSTITUTE  ->  Rensselaer Polytechnic Institute
+[exact ] RHODE ISLAND COLLEGE  ->  Rhode Island College
+[exact ] RHODES COLLEGE  ->  Rhodes College
+[exact ] RICE UNIVERSITY  ->  Rice University
+[exact ] RIDER UNIVERSITY  ->  Rider University
+[exact ] RIO HONDO COLLEGE  ->  Rio Hondo College
+[exact ] RIO SALADO COLLEGE  ->  Rio Salado College
+[exact ] RIVERLAND COMMUNITY COLLEGE  ->  Riverland Community College
+[exact ] RIVERSIDE CITY COLLEGE  ->  Riverside City College
+[exact ] ROANOKE COLLEGE  ->  Roanoke College
+[exact ] ROBERT MORRIS UNIVERSITY  ->  Robert Morris University
+[exact ] ROCHESTER COMMUNITY AND TECHNICAL COLLEGE  ->  Rochester Community and Technical College
+[exact ] ROCHESTER INSTITUTE OF TECHNOLOGY  ->  Rochester Institute of Technology
+[exact ] ROCK VALLEY COLLEGE  ->  Rock Valley College
+[exact ] ROGER WILLIAMS UNIVERSITY  ->  Roger Williams University
+[exact ] ROGER WILLIAMS UNIVERSITY SCHOOL OF LAW  ->  Roger Williams University School of Law
+[exact ] ROLLINS COLLEGE  ->  Rollins College
+[exact ] ROOSEVELT UNIVERSITY  ->  Roosevelt University
+[exact ] ROSE STATE COLLEGE  ->  Rose State College
+[exact ] ROSE-HULMAN INSTITUTE OF TECHNOLOGY  ->  Rose-Hulman Institute of Technology
+[exact ] ROWAN COLLEGE AT BURLINGTON COUNTY  ->  Rowan College at Burlington County
+[family] ROWAN COLLEGE OF SOUTH JERSEY  ->  Rowan College of South Jersey-Gloucester Campus
+[exact ] ROWAN COLLEGE SOUTH JERSEY CUMBERLAND CAMPUS  ->  Rowan College of South Jersey-Cumberland Campus
+[exact ] ROWAN UNIVERSITY  ->  Rowan University
+[exact ] RUTGERS UNIVERSITY-CAMDEN  ->  Rutgers University-Camden
+[exact ] RUTGERS UNIVERSITY-NEW BRUNSWICK  ->  Rutgers University-New Brunswick
+[exact ] RUTGERS UNIVERSITY-NEWARK  ->  Rutgers University-Newark
+[exact ] SACRAMENTO CITY COLLEGE  ->  Sacramento City College
+[exact ] SACRED HEART UNIVERSITY  ->  Sacred Heart University
+[exact ] SADDLEBACK COLLEGE  ->  Saddleback College
+[exact ] SAINT AUGUSTINE'S UNIVERSITY  ->  Saint Augustine's University
+[exact ] SAINT CLOUD STATE UNIVERSITY  ->  Saint Cloud State University
+[exact ] SAINT ELIZABETH UNIVERSITY  ->  Saint Elizabeth University
+[exact ] SAINT FRANCIS UNIVERSITY  ->  Saint Francis University
+[family] SAINT JOHN'S UNIVERSITY - STATEN ISLAND CAMPUS  ->  Saint Johns University
+[exact ] SAINT JOHNS RIVER STATE COLLEGE  ->  Saint Johns River State College
+[exact ] SAINT JOSEPHS UNIVERSITY  ->  Saint Joseph's University
+[exact ] SAINT LEO UNIVERSITY  ->  Saint Leo University
+[exact ] SAINT LOUIS UNIVERSITY-MAIN CAMPUS  ->  Saint Louis University
+[exact ] SAINT MARY'S COLLEGE  ->  Saint Mary's College
+[exact ] SAINT NORBERT COLLEGE  ->  Saint Norbert College
+[exact ] SAINT PETER'S UNIVERSITY  ->  Saint Peter's University
+[exact ] SAINT VINCENT COLLEGE  ->  Saint Vincent College
+[exact ] SALEM COMMUNITY COLLEGE  ->  Salem Community College
+[exact ] SALEM STATE UNIVERSITY  ->  Salem State University
+[exact ] SALEM UNIVERSITY  ->  Salem University
+[exact ] SALISBURY UNIVERSITY  ->  Salisbury University
+[exact ] SALT LAKE COMMUNITY COLLEGE  ->  Salt Lake Community College
+[exact ] SALVE REGINA UNIVERSITY  ->  Salve Regina University
+[exact ] SAMFORD UNIVERSITY  ->  Samford University
+[exact ] SAN ANTONIO COLLEGE  ->  San Antonio College
+[exact ] SAN BERNARDINO VALLEY COLLEGE  ->  San Bernardino Valley College
+[exact ] SAN DIEGO CITY COLLEGE  ->  San Diego City College
+[exact ] SAN DIEGO MESA COLLEGE  ->  San Diego Mesa College
+[exact ] SAN DIEGO MIRAMAR COLLEGE  ->  San Diego Miramar College
+[exact ] SAN DIEGO STATE UNIVERSITY  ->  San Diego State University
+[family] SAN DIEGO STATE UNIVERSITY-IMPERIAL VALLEY CAMPUS  ->  San Diego State University
+[exact ] SAN FRANCISCO STATE UNIVERSITY  ->  San Francisco State University
+[family] SAN JACINTO COLLEGE  ->  San Jacinto Community College
+[family] SAN JACINTO COLLEGE-NORTH CAMPUS  ->  San Jacinto Community College
+[family] SAN JACINTO COLLEGE-SOUTH CAMPUS  ->  San Jacinto Community College
+[family] SAN JACINTO COMMUNITY COLLEGE DISTRICT - GENERATION PARK CAMPUS  ->  San Jacinto Community College
+[exact ] SAN JOSE CITY COLLEGE  ->  San Jose City College
+[exact ] SAN JOSE STATE UNIVERSITY  ->  San Jose State University
+[exact ] SANDHILLS COMMUNITY COLLEGE  ->  Sandhills Community College
+[exact ] SANTA BARBARA CITY COLLEGE  ->  Santa Barbara City College
+[exact ] SANTA CLARA UNIVERSITY  ->  Santa Clara University
+[exact ] SANTA FE COLLEGE  ->  Santa Fe College
+[exact ] SANTA FE COMMUNITY COLLEGE  ->  Santa Fe Community College
+[exact ] SANTA MONICA COLLEGE  ->  Santa Monica College
+[exact ] SANTA ROSA JUNIOR COLLEGE  ->  Santa Rosa Junior College
+[exact ] SANTIAGO CANYON COLLEGE  ->  Santiago Canyon College
+[exact ] SARAH LAWRENCE COLLEGE  ->  Sarah Lawrence College
+[exact ] SAVANNAH COLLEGE OF ART AND DESIGN  ->  Savannah College of Art and Design
+[exact ] SCHENECTADY COUNTY COMMUNITY COLLEGE  ->  Schenectady County Community College
+[family] SCHOOLCRAFT COLLEGE  ->  Schoolcraft Community College District
+[exact ] SCHREINER UNIVERSITY  ->  Schreiner University
+[exact ] SCOTTSDALE COMMUNITY COLLEGE  ->  Scottsdale Community College
+[exact ] SEATTLE CENTRAL COLLEGE  ->  Seattle Central College
+[exact ] SEATTLE UNIVERSITY  ->  Seattle University
+[exact ] SEMINOLE STATE COLLEGE OF FLORIDA  ->  Seminole State College of Florida
+[exact ] SETON HALL UNIVERSITY  ->  Seton Hall University
+[exact ] SETON HILL UNIVERSITY  ->  Seton Hill University
+[exact ] SHENANDOAH UNIVERSITY  ->  Shenandoah University
+[exact ] SHEPHERD UNIVERSITY  ->  Shepherd University
+[exact ] SHIPPENSBURG UNIVERSITY OF PENNSYLVANIA  ->  Shippensburg University of Pennsylvania
+[exact ] SHORELINE COMMUNITY COLLEGE  ->  Shoreline Community College
+[family] SHORELINE COMMUNITY COLLEGE - CNC MACHINISTS PROGRAM , GEORGETOWN SSC  ->  Shoreline Community College
+[family] SHORELINE COMMUNITY COLLEGE - DENTAL HYGIENE  ->  Shoreline Community College
+[exact ] SIENA COLLEGE  ->  Siena College
+[exact ] SIERRA COLLEGE  ->  Sierra College
+[exact ] SIMMONS UNIVERSITY  ->  Simmons University
+[exact ] SINCLAIR COMMUNITY COLLEGE  ->  Sinclair Community College
+[exact ] SKAGIT VALLEY COLLEGE  ->  Skagit Valley College
+[exact ] SKIDMORE COLLEGE  ->  Skidmore College
+[exact ] SKYLINE COLLEGE  ->  Skyline College
+[exact ] SLIPPERY ROCK UNIVERSITY OF PENNSYLVANIA  ->  Slippery Rock University of Pennsylvania
+[exact ] SNOW COLLEGE  ->  Snow College
+[family] SNOW COLLEGE-RICHFIELD CAMPUS  ->  Snow College
+[exact ] SOLANO COMMUNITY COLLEGE  ->  Solano Community College
+[exact ] SOMERSET COMMUNITY COLLEGE  ->  Somerset Community College
+[exact ] SOUTH COLLEGE  ->  South College
+[family] SOUTH COLLEGE - INDIANAPOLIS  ->  South College
+[family] SOUTH COLLEGE - ORLANDO  ->  South College
+[family] SOUTH COLLEGE-ASHEVILLE  ->  South College
+[family] SOUTH COLLEGE-ATLANTA  ->  South College
+[family] SOUTH COLLEGE-NASHVILLE  ->  South College
+[exact ] SOUTH DAKOTA STATE UNIVERSITY  ->  South Dakota State University
+[exact ] SOUTH MOUNTAIN COMMUNITY COLLEGE  ->  South Mountain Community College
+[exact ] SOUTH PIEDMONT COMMUNITY COLLEGE  ->  South Piedmont Community College
+[exact ] SOUTH PUGET SOUND COMMUNITY COLLEGE  ->  South Puget Sound Community College
+[exact ] SOUTH SEATTLE COLLEGE  ->  South Seattle College
+[exact ] SOUTH SUBURBAN COLLEGE  ->  South Suburban College
+[family] SOUTH UNIVERSITY-ACCELERATED GRADUATE PROGRAMS  ->  South University-Tampa
+[exact ] SOUTH UNIVERSITY-AUSTIN  ->  South University-Austin
+[family] SOUTH UNIVERSITY-CLEVELAND  ->  South University-Savannah Online
+[exact ] SOUTH UNIVERSITY-COLUMBIA  ->  South University-Columbia
+[exact ] SOUTH UNIVERSITY-HIGH POINT  ->  South University-High Point
+[exact ] SOUTH UNIVERSITY-MONTGOMERY  ->  South University-Montgomery
+[family] SOUTH UNIVERSITY-NOVI  ->  South University-Columbia
+[exact ] SOUTH UNIVERSITY-RICHMOND  ->  South University-Richmond
+[exact ] SOUTH UNIVERSITY-SAVANNAH  ->  South University-Savannah Online
+[exact ] SOUTH UNIVERSITY-SAVANNAH ONLINE  ->  South University-Savannah Online
+[exact ] SOUTH UNIVERSITY-TAMPA  ->  South University-Tampa
+[exact ] SOUTH UNIVERSITY-VIRGINIA BEACH  ->  South University-Virginia Beach
+[exact ] SOUTH UNIVERSITY-WEST PALM BEACH  ->  South University-West Palm Beach
+[exact ] SOUTHCENTRAL KENTUCKY COMMUNITY & TECHNICAL COLLEGE  ->  Southcentral Kentucky Community and Technical College
+[exact ] SOUTHEAST COMMUNITY COLLEGE  ->  Southeast Community College Area
+[exact ] SOUTHEAST KENTUCKY COMMUNITY & TECHNICAL COLLEGE  ->  Southeast Kentucky Community & Technical College
+[exact ] SOUTHEAST MISSOURI STATE UNIVERSITY  ->  Southeast Missouri State University
+[exact ] SOUTHEASTERN BAPTIST THEOLOGICAL SEMINARY  ->  Southeastern Baptist Theological Seminary
+[exact ] SOUTHERN CONNECTICUT STATE UNIVERSITY  ->  Southern Connecticut State University
+[exact ] SOUTHERN CRESCENT TECHNICAL COLLEGE  ->  Southern Crescent Technical College
+[exact ] SOUTHERN ILLINOIS UNIVERSITY-CARBONDALE  ->  Southern Illinois University-Carbondale
+[exact ] SOUTHERN METHODIST UNIVERSITY  ->  Southern Methodist University
+[exact ] SOUTHERN NEW HAMPSHIRE UNIVERSITY  ->  Southern New Hampshire University
+[exact ] SOUTHERN OREGON UNIVERSITY  ->  Southern Oregon University
+[exact ] SOUTHERN UTAH UNIVERSITY  ->  Southern Utah University
+[exact ] SOUTHWEST MINNESOTA STATE UNIVERSITY  ->  Southwest Minnesota State University
+[exact ] SOUTHWEST TENNESSEE COMMUNITY COLLEGE  ->  Southwest Tennessee Community College
+[exact ] SOUTHWESTERN COLLEGE  ->  Southwestern College
+[exact ] SOUTHWESTERN ILLINOIS COLLEGE  ->  Southwestern Illinois College
+[exact ] SOUTHWESTERN MICHIGAN COLLEGE  ->  Southwestern Michigan College
+[exact ] SOUTHWESTERN OKLAHOMA STATE UNIVERSITY  ->  Southwestern Oklahoma State University
+[exact ] SOUTHWESTERN OREGON COMMUNITY COLLEGE  ->  Southwestern Oregon Community College
+[exact ] SPARTANBURG COMMUNITY COLLEGE  ->  Spartanburg Community College
+[exact ] SPELMAN COLLEGE  ->  Spelman College
+[exact ] SPOKANE COMMUNITY COLLEGE  ->  Spokane Community College
+[exact ] SPOKANE FALLS COMMUNITY COLLEGE  ->  Spokane Falls Community College
+[exact ] SPRINGFIELD TECHNICAL COMMUNITY COLLEGE  ->  Springfield Technical Community College
+[exact ] ST LAWRENCE UNIVERSITY  ->  St Lawrence University
+[exact ] ST PETERSBURG COLLEGE  ->  St Petersburg College
+[exact ] ST. BONAVENTURE UNIVERSITY  ->  St Bonaventure University
+[exact ] ST. CATHERINE UNIVERSITY  ->  St Catherine University
+[exact ] ST. JOHN FISHER UNIVERSITY  ->  St. John Fisher University
+[family] ST. JOHN'S UNIVERSITY  ->  St. John's University-New York
+[exact ] ST. MARY'S COLLEGE OF MARYLAND  ->  St. Mary's College of Maryland
+[exact ] ST. PHILIP'S COLLEGE  ->  St Philip's College
+[exact ] ST. THOMAS AQUINAS COLLEGE  ->  St. Thomas Aquinas College
+[exact ] STARK STATE COLLEGE  ->  Stark State College
+[exact ] STATE COLLEGE OF FLORIDA MANATEE-SARASOTA  ->  State College of Florida-Manatee-Sarasota
+[exact ] STATE FAIR COMMUNITY COLLEGE  ->  State Fair Community College
+[exact ] STATE TECHNICAL COLLEGE OF MISSOURI  ->  State Technical College of Missouri
+[exact ] STETSON UNIVERSITY  ->  Stetson University
+[exact ] STEVENS INSTITUTE OF TECHNOLOGY  ->  Stevens Institute of Technology
+[exact ] STEVENSON UNIVERSITY  ->  Stevenson University
+[exact ] STOCKTON UNIVERSITY  ->  Stockton University
+[exact ] STONY BROOK UNIVERSITY  ->  Stony Brook University
+[family] STRAYER UNIVERSITY - MACON CAMPUS  ->  Strayer University-Maryland
+[exact ] STRAYER UNIVERSITY-ALABAMA  ->  Strayer University-Alabama
+[family] STRAYER UNIVERSITY-ALEXANDRIA CAMPUS  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-ALLENTOWN CAMPUS  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-ANNE ARUNDEL CAMPUS  ->  Strayer University-Tennessee
+[exact ] STRAYER UNIVERSITY-ARKANSAS  ->  Strayer University-Arkansas
+[family] STRAYER UNIVERSITY-AUGUSTA CAMPUS  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-BAYMEADOWS CAMPUS  ->  Strayer University-Alabama
+[family] STRAYER UNIVERSITY-BRICKELL  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-CEDAR HILL  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-CENTER CITY CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-CHARLESTON CAMPUS  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-CHESAPEAKE CAMPUS  ->  Strayer University-Tennessee
+[family] STRAYER UNIVERSITY-CHESTERFIELD CAMPUS  ->  Strayer University-Tennessee
+[family] STRAYER UNIVERSITY-COBB CAMPUS  ->  Strayer University-District of Columbia
+[exact ] STRAYER UNIVERSITY-COLUMBIA CAMPUS  ->  Strayer University-District of Columbia
+[family] STRAYER UNIVERSITY-COLUMBUS  ->  Strayer University-District of Columbia
+[family] STRAYER UNIVERSITY-CORAL SPRINGS CAMPUS  ->  Strayer University-Arkansas
+[exact ] STRAYER UNIVERSITY-DELAWARE  ->  Strayer University-Delaware
+[family] STRAYER UNIVERSITY-DELAWARE COUNTY CAMPUS  ->  Strayer University-Delaware
+[exact ] STRAYER UNIVERSITY-DISTRICT OF COLUMBIA  ->  Strayer University-District of Columbia
+[family] STRAYER UNIVERSITY-DORAL  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-DOUGLASVILLE CAMPUS  ->  Strayer University-Delaware
+[exact ] STRAYER UNIVERSITY-FLORIDA  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-FORT LAUDERDALE CAMPUS  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-FREDERICKSBURG CAMPUS  ->  Strayer University-Georgia
+[exact ] STRAYER UNIVERSITY-GEORGIA  ->  Strayer University-Georgia
+[exact ] STRAYER UNIVERSITY-GLOBAL REGION  ->  Strayer University-Global Region
+[family] STRAYER UNIVERSITY-GREENSBORO CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-HENRICO CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-HUNTERSVILLE CAMPUS  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-HUNTSVILLE CAMPUS  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-IRVING  ->  Strayer University-Virginia
+[family] STRAYER UNIVERSITY-KATY  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-KING OF PRUSSIA CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-KNOXVILLE CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-LAWRENCEVILLE  ->  Strayer University-Delaware
+[family] STRAYER UNIVERSITY-LITHONIA CAMPUS  ->  Strayer University-Virginia
+[family] STRAYER UNIVERSITY-LOUDOUN CAMPUS  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-LOUISIANA  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-LOUISVILLE CAMPUS  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-LOWER BUCKS COUNTY CAMPUS  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-MAITLAND CAMPUS  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-MANASSAS CAMPUS  ->  Strayer University-Arkansas
+[exact ] STRAYER UNIVERSITY-MARYLAND  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-MIRAMAR CAMPUS  ->  Strayer University-Alabama
+[exact ] STRAYER UNIVERSITY-MISSISSIPPI  ->  Strayer University-Mississippi
+[family] STRAYER UNIVERSITY-MONTGOMERY CAMPUS  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-MORROW CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-NASHVILLE CAMPUS  ->  Strayer University-Texas
+[exact ] STRAYER UNIVERSITY-NEW JERSEY  ->  Strayer University-New Jersey
+[family] STRAYER UNIVERSITY-NEWPORT NEWS CAMPUS  ->  Strayer University-Delaware
+[exact ] STRAYER UNIVERSITY-NORTH CAROLINA  ->  Strayer University-North Carolina
+[family] STRAYER UNIVERSITY-NORTH CHARLOTTE  ->  Strayer University-North Carolina
+[family] STRAYER UNIVERSITY-NORTH DALLAS  ->  Strayer University-North Carolina
+[family] STRAYER UNIVERSITY-NORTH RALEIGH CAMPUS  ->  Strayer University-North Carolina
+[family] STRAYER UNIVERSITY-NORTHWEST HOUSTON  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-ONLINE CAMPUS  ->  Strayer University-Global Region
+[family] STRAYER UNIVERSITY-ORLANDO EAST CAMPUS  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-OWINGS MILLS CAMPUS  ->  Strayer University-Virginia
+[family] STRAYER UNIVERSITY-PALM BEACH GARDENS CAMPUS  ->  Strayer University-Alabama
+[exact ] STRAYER UNIVERSITY-PENNSYLVANIA  ->  Strayer University-Pennsylvania
+[family] STRAYER UNIVERSITY-PISCATAWAY  ->  Strayer University-Alabama
+[family] STRAYER UNIVERSITY-PLANO  ->  Strayer University-Maryland
+[family] STRAYER UNIVERSITY-ROCKVILLE CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-ROSWELL CAMPUS  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-SAN ANTONIO  ->  Strayer University-Pennsylvania
+[family] STRAYER UNIVERSITY-SAND LAKE CAMPUS  ->  Strayer University-Delaware
+[family] STRAYER UNIVERSITY-SAVANNAH CAMPUS  ->  Strayer University-Alabama
+[family] STRAYER UNIVERSITY-SHELBY OAKS CAMPUS  ->  Strayer University-Georgia
+[exact ] STRAYER UNIVERSITY-SOUTH CAROLINA  ->  Strayer University-South Carolina
+[family] STRAYER UNIVERSITY-SOUTH CHARLOTTE  ->  Strayer University-South Carolina
+[family] STRAYER UNIVERSITY-SOUTH RALEIGH CAMPUS  ->  Strayer University-South Carolina
+[family] STRAYER UNIVERSITY-STAFFORD  ->  Strayer University-Florida
+[family] STRAYER UNIVERSITY-TAKOMA PARK CAMPUS  ->  Strayer University-Alabama
+[family] STRAYER UNIVERSITY-TAMPA EAST CAMPUS  ->  Strayer University-Texas
+[exact ] STRAYER UNIVERSITY-TENNESSEE  ->  Strayer University-Tennessee
+[exact ] STRAYER UNIVERSITY-TEXAS  ->  Strayer University-Texas
+[exact ] STRAYER UNIVERSITY-VIRGINIA  ->  Strayer University-Virginia
+[family] STRAYER UNIVERSITY-VIRGINIA BEACH CAMPUS  ->  Strayer University-Virginia
+[family] STRAYER UNIVERSITY-WARRENDALE CAMPUS  ->  Strayer University-Maryland
+[exact ] STRAYER UNIVERSITY-WEST VIRGINIA  ->  Strayer University-West Virginia
+[family] STRAYER UNIVERSITY-WHITE MARSH CAMPUS  ->  Strayer University-Texas
+[family] STRAYER UNIVERSITY-WILLINGBORO CAMPUS  ->  Strayer University-Georgia
+[family] STRAYER UNIVERSITY-WOODBRIDGE CAMPUS  ->  Strayer University-Florida
+[family] SUFFOLK COUNTY COMMUNITY COLLEGE-AMMERMAN CAMPUS  ->  Suffolk County Community College
+[family] SUFFOLK COUNTY COMMUNITY COLLEGE-CENTRAL REPORT  ->  Suffolk County Community College
+[family] SUFFOLK COUNTY COMMUNITY COLLEGE-EASTERN CAMPUS  ->  Suffolk County Community College
+[family] SUFFOLK COUNTY COMMUNITY COLLEGE-WESTERN CAMPUS  ->  Suffolk County Community College
+[exact ] SUFFOLK UNIVERSITY  ->  Suffolk University
+[exact ] SUNY AT FREDONIA  ->  SUNY at Fredonia
+[exact ] SUNY COLLEGE OF AGRICULTURE AND TECHNOLOGY AT COBLESKILL  ->  SUNY College of Agriculture and Technology at Cobleskill
+[exact ] SUNY COLLEGE OF ENVIRONMENTAL SCIENCE AND FORESTRY  ->  SUNY College of Environmental Science and Forestry
+[exact ] SUNY COLLEGE OF TECHNOLOGY AT ALFRED  ->  SUNY College of Technology at Alfred
+[exact ] SUNY CORTLAND  ->  State University of New York at Cortland
+[exact ] SUNY NEW PALTZ  ->  State University of New York at New Paltz
+[exact ] SUNY POLYTECHNIC INSTITUTE  ->  SUNY Polytechnic Institute
+[exact ] SUNY ROCKLAND COMMUNITY COLLEGE  ->  Rockland Community College
+[exact ] SUNY ULSTER COUNTY COMMUNITY COLLEGE  ->  Ulster County Community College
+[exact ] SUNY WESTCHESTER COMMUNITY COLLEGE  ->  SUNY Westchester Community College
+[exact ] SURRY COMMUNITY COLLEGE  ->  Surry Community College
+[exact ] SUSQUEHANNA UNIVERSITY  ->  Susquehanna University
+[exact ] SUSSEX COUNTY COMMUNITY COLLEGE  ->  Sussex County Community College
+[exact ] SYRACUSE UNIVERSITY  ->  Syracuse University
+[exact ] TARRANT COUNTY COLLEGE  ->  Tarrant County College District
+[exact ] TEMPLE UNIVERSITY  ->  Temple University
+[exact ] TENNESSEE STATE UNIVERSITY  ->  Tennessee State University
+[exact ] TERRA STATE COMMUNITY COLLEGE  ->  Terra State Community College
+[exact ] TEXAS A & M INTERNATIONAL UNIVERSITY  ->  Texas A & M International University
+[family] TEXAS A & M UNIVERSITY  ->  Texas A & M University-College Station
+[exact ] TEXAS A & M UNIVERSITY-CORPUS CHRISTI  ->  Texas A & M University-Corpus Christi
+[family] TEXAS A & M UNIVERSITY-GALVESTON  ->  Texas A & M University-Kingsville
+[exact ] TEXAS CHRISTIAN UNIVERSITY  ->  Texas Christian University
+[family] TEXAS STATE UNIVERSITY-SAN MARCOS  ->  Texas State University
+[exact ] TEXAS TECH UNIVERSITY  ->  Texas Tech University
+[exact ] THADDEUS STEVENS COLLEGE OF TECHNOLOGY  ->  Thaddeus Stevens College of Technology
+[exact ] THE COLLEGE OF NEW JERSEY  ->  The College of New Jersey
+[exact ] THE COLLEGE OF SAINT ROSE  ->  The College of Saint Rose
+[exact ] THE NEW SCHOOL  ->  The New School
+[exact ] THE PENNSYLVANIA STATE UNIVERSITY  ->  Pennsylvania State University-Main Campus
+[exact ] THE UNIVERSITY OF ALABAMA  ->  The University of Alabama
+[exact ] THE UNIVERSITY OF FINDLAY  ->  The University of Findlay
+[exact ] THE UNIVERSITY OF LOUISIANA AT MONROE  ->  University of Louisiana at Monroe
+[exact ] THE UNIVERSITY OF MONTANA  ->  The University of Montana
+[family] THE UNIVERSITY OF MONTANA - MISSOULA COLLEGE  ->  The University of Montana
+[exact ] THE UNIVERSITY OF TAMPA  ->  The University of Tampa
+[exact ] THE UNIVERSITY OF TEXAS AT ARLINGTON  ->  The University of Texas at Arlington
+[exact ] THE UNIVERSITY OF TEXAS AT AUSTIN  ->  The University of Texas at Austin
+[exact ] THE UNIVERSITY OF TEXAS AT DALLAS  ->  The University of Texas at Dallas
+[exact ] THE UNIVERSITY OF TEXAS AT EL PASO  ->  The University of Texas at El Paso
+[exact ] THE UNIVERSITY OF TEXAS AT SAN ANTONIO  ->  The University of Texas at San Antonio
+[exact ] THE UNIVERSITY OF TEXAS OF THE PERMIAN BASIN  ->  The University of Texas Permian Basin
+[exact ] THE UNIVERSITY OF THE ARTS  ->  University of the Arts
+[exact ] THE UNIVERSITY OF WEST FLORIDA  ->  University of West Florida
+[exact ] THIEL COLLEGE  ->  Thiel College
+[exact ] THOMAS COLLEGE  ->  Thomas College
+[exact ] THOMAS EDISON STATE UNIVERSITY  ->  Thomas Edison State University
+[exact ] THOMAS JEFFERSON UNIVERSITY  ->  Thomas Jefferson University
+[exact ] THOMAS MORE UNIVERSITY  ->  Thomas More University
+[exact ] TIDEWATER COMMUNITY COLLEGE  ->  Tidewater Community College
+[exact ] TIFFIN UNIVERSITY  ->  Tiffin University
+[exact ] TOCCOA FALLS COLLEGE  ->  Toccoa Falls College
+[exact ] TOMPKINS-CORTLAND COMMUNITY COLLEGE  ->  Tompkins Cortland Community College
+[exact ] TOWSON UNIVERSITY  ->  Towson University
+[exact ] TREASURE VALLEY COMMUNITY COLLEGE  ->  Treasure Valley Community College
+[exact ] TRIDENT TECHNICAL COLLEGE  ->  Trident Technical College
+[exact ] TRINE UNIVERSITY  ->  Trine University
+[exact ] TRINE UNIVERSITY-REGIONAL/NON-TRADITIONAL CAMPUSES  ->  Trine University-Regional/Non-Traditional Campuses
+[exact ] TRINITY COLLEGE  ->  Trinity College
+[exact ] TRINITY UNIVERSITY  ->  Trinity University
+[exact ] TRINITY WASHINGTON UNIVERSITY  ->  Trinity Washington University
+[exact ] TRITON COLLEGE  ->  Triton College
+[family] TRITON COLLEGE - INTL UNION OF OPERATING ENGR LOCAL 399 TRNING FAC.  ->  Triton College
+[exact ] TROY UNIVERSITY  ->  Troy University
+[family] TROY UNIVERSITY - DOTHAN CAMPUS  ->  Troy University
+[family] TROY UNIVERSITY - MONTGOMERY CAMPUS  ->  Troy University
+[family] TROY UNIVERSITY - PHENIX CITY CAMPUS  ->  Troy University
+[exact ] TROY UNIVERSITY-ONLINE  ->  Troy University
+[exact ] TUFTS UNIVERSITY  ->  Tufts University
+[family] TULANE UNIVERSITY  ->  Tulane University of Louisiana
+[exact ] TULSA COMMUNITY COLLEGE  ->  Tulsa Community College
+[exact ] TUSCULUM UNIVERSITY  ->  Tusculum University
+[exact ] TYLER JUNIOR COLLEGE  ->  Tyler Junior College
+[exact ] UNITED STATES AIR FORCE ACADEMY  ->  United States Air Force Academy
+[exact ] UNITED STATES MERCHANT MARINE ACADEMY  ->  United States Merchant Marine Academy
+[exact ] UNITED STATES MILITARY ACADEMY  ->  United States Military Academy
+[exact ] UNITED STATES NAVAL ACADEMY  ->  United States Naval Academy
+[exact ] UNIVERSIDAD ADVENTISTA DE LAS ANTILLAS  ->  Universidad Adventista de las Antillas
+[exact ] UNIVERSIDAD ANA G. MÉNDEZ-CAROLINA CAMPUS  ->  Universidad Ana G. Mendez-Carolina Campus
+[exact ] UNIVERSIDAD ANA G. MÉNDEZ-CUPEY CAMPUS  ->  Universidad Ana G. Mendez-Cupey Campus
+[exact ] UNIVERSIDAD ANA G. MÉNDEZ-GURABO CAMPUS  ->  Universidad Ana G. Mendez-Gurabo Campus
+[family] UNIVERSIDAD ANA G. MÉNDEZ-ONLINE CAMPUS  ->  Universidad Ana G. Mendez-Cupey Campus
+[exact ] UNIVERSIDAD DEL SAGRADO CORAZÓN  ->  Universidad del Sagrado Corazon
+[exact ] UNIVERSITY AT ALBANY, STATE UNIVERSITY OF NEW YORK  ->  University at Albany
+[exact ] UNIVERSITY AT BUFFALO, STATE UNIVERSITY OF NEW YORK  ->  University at Buffalo
+[exact ] UNIVERSITY OF AKRON MAIN CAMPUS  ->  University of Akron Main Campus
+[exact ] UNIVERSITY OF ALABAMA AT BIRMINGHAM  ->  University of Alabama at Birmingham
+[exact ] UNIVERSITY OF ALABAMA IN HUNTSVILLE  ->  University of Alabama in Huntsville
+[exact ] UNIVERSITY OF ALABAMA, THE  ->  The University of Alabama
+[exact ] UNIVERSITY OF ARIZONA  ->  University of Arizona
+[exact ] UNIVERSITY OF ARKANSAS AT LITTLE ROCK  ->  University of Arkansas at Little Rock
+[exact ] UNIVERSITY OF ARTS, THE  ->  University of the Arts
+[exact ] UNIVERSITY OF BALTIMORE  ->  University of Baltimore
+[exact ] UNIVERSITY OF BRIDGEPORT  ->  University of Bridgeport
+[exact ] UNIVERSITY OF CALIFORNIA-BERKELEY  ->  University of California-Berkeley
+[exact ] UNIVERSITY OF CALIFORNIA-DAVIS  ->  University of California-Davis
+[exact ] UNIVERSITY OF CALIFORNIA-IRVINE  ->  University of California-Irvine
+[exact ] UNIVERSITY OF CALIFORNIA-LOS ANGELES  ->  University of California-Los Angeles
+[exact ] UNIVERSITY OF CALIFORNIA-MERCED  ->  University of California-Merced
+[exact ] UNIVERSITY OF CALIFORNIA-RIVERSIDE  ->  University of California-Riverside
+[exact ] UNIVERSITY OF CALIFORNIA-SAN DIEGO  ->  University of California-San Diego
+[exact ] UNIVERSITY OF CALIFORNIA-SANTA BARBARA  ->  University of California-Santa Barbara
+[exact ] UNIVERSITY OF CALIFORNIA-SANTA CRUZ  ->  University of California-Santa Cruz
+[exact ] UNIVERSITY OF CENTRAL FLORIDA  ->  University of Central Florida
+[exact ] UNIVERSITY OF CENTRAL OKLAHOMA  ->  University of Central Oklahoma
+[exact ] UNIVERSITY OF CHICAGO  ->  University of Chicago
+[exact ] UNIVERSITY OF CINCINNATI-BLUE ASH COLLEGE  ->  University of Cincinnati-Blue Ash College
+[exact ] UNIVERSITY OF CINCINNATI-CLERMONT COLLEGE  ->  University of Cincinnati-Clermont College
+[exact ] UNIVERSITY OF CINCINNATI-MAIN CAMPUS  ->  University of Cincinnati-Main Campus
+[exact ] UNIVERSITY OF COLORADO AT BOULDER  ->  University of Colorado Boulder
+[exact ] UNIVERSITY OF COLORADO AT COLORADO SPRINGS  ->  University of Colorado Colorado Springs
+[family] UNIVERSITY OF COLORADO DENVER  ->  University of Colorado Denver/Anschutz Medical Campus
+[exact ] UNIVERSITY OF CONNECTICUT  ->  University of Connecticut
+[exact ] UNIVERSITY OF CONNECTICUT-AVERY POINT  ->  University of Connecticut-Avery Point
+[exact ] UNIVERSITY OF CONNECTICUT-HARTFORD CAMPUS  ->  University of Connecticut-Hartford Campus
+[exact ] UNIVERSITY OF CONNECTICUT-STAMFORD  ->  University of Connecticut-Stamford
+[exact ] UNIVERSITY OF CONNECTICUT-WATERBURY CAMPUS  ->  University of Connecticut-Waterbury Campus
+[exact ] UNIVERSITY OF DALLAS  ->  University of Dallas
+[exact ] UNIVERSITY OF DAYTON  ->  University of Dayton
+[exact ] UNIVERSITY OF DELAWARE  ->  University of Delaware
+[exact ] UNIVERSITY OF DENVER  ->  University of Denver
+[exact ] UNIVERSITY OF DETROIT MERCY  ->  University of Detroit Mercy
+[exact ] UNIVERSITY OF FINDLAY, THE  ->  The University of Findlay
+[exact ] UNIVERSITY OF FLORIDA  ->  University of Florida
+[exact ] UNIVERSITY OF FLORIDA-ONLINE  ->  University of Florida
+[exact ] UNIVERSITY OF GEORGIA  ->  University of Georgia
+[exact ] UNIVERSITY OF HARTFORD  ->  University of Hartford
+[exact ] UNIVERSITY OF HAWAI'I AT HILO  ->  University of Hawaii at Hilo
+[exact ] UNIVERSITY OF HAWAI'I AT MANOA  ->  University of Hawaii at Manoa
+[exact ] UNIVERSITY OF HAWAI'I MAUI COLLEGE  ->  University of Hawaii Maui College
+[exact ] UNIVERSITY OF HOUSTON  ->  University of Houston
+[exact ] UNIVERSITY OF IDAHO  ->  University of Idaho
+[exact ] UNIVERSITY OF ILLINOIS AT URBANA - CHAMPAIGN  ->  University of Illinois Urbana-Champaign
+[exact ] UNIVERSITY OF ILLINOIS CHICAGO  ->  University of Illinois Chicago
+[exact ] UNIVERSITY OF INDIANAPOLIS  ->  University of Indianapolis
+[exact ] UNIVERSITY OF IOWA  ->  University of Iowa
+[exact ] UNIVERSITY OF KANSAS  ->  University of Kansas
+[exact ] UNIVERSITY OF KENTUCKY  ->  University of Kentucky
+[exact ] UNIVERSITY OF LOUISIANA AT LAFAYETTE  ->  University of Louisiana at Lafayette
+[exact ] UNIVERSITY OF LOUISIANA AT MONROE, THE  ->  University of Louisiana at Monroe
+[exact ] UNIVERSITY OF LOUISVILLE  ->  University of Louisville
+[exact ] UNIVERSITY OF LYNCHBURG  ->  University of Lynchburg
+[exact ] UNIVERSITY OF MAINE  ->  University of Maine
+[family] UNIVERSITY OF MAINE - MACHIAS  ->  University of Maine
+[exact ] UNIVERSITY OF MAINE AT AUGUSTA  ->  University of Maine at Augusta
+[exact ] UNIVERSITY OF MARY HARDIN BAYLOR  ->  University of Mary Hardin-Baylor
+[exact ] UNIVERSITY OF MARY WASHINGTON  ->  University of Mary Washington
+[exact ] UNIVERSITY OF MARYLAND GLOBAL CAMPUS  ->  University of Maryland Global Campus
+[exact ] UNIVERSITY OF MARYLAND-BALTIMORE COUNTY  ->  University of Maryland-Baltimore County
+[exact ] UNIVERSITY OF MARYLAND-COLLEGE PARK  ->  University of Maryland-College Park
+[exact ] UNIVERSITY OF MASSACHUSETTS GLOBAL  ->  University of Massachusetts Global
+[exact ] UNIVERSITY OF MASSACHUSETTS-AMHERST  ->  University of Massachusetts-Amherst
+[exact ] UNIVERSITY OF MASSACHUSETTS-BOSTON  ->  University of Massachusetts-Boston
+[exact ] UNIVERSITY OF MASSACHUSETTS-LOWELL  ->  University of Massachusetts-Lowell
+[exact ] UNIVERSITY OF MEMPHIS  ->  University of Memphis
+[exact ] UNIVERSITY OF MIAMI  ->  University of Miami
+[exact ] UNIVERSITY OF MICHIGAN-ANN ARBOR  ->  University of Michigan-Ann Arbor
+[exact ] UNIVERSITY OF MINNESOTA CROOKSTON  ->  University of Minnesota-Crookston
+[exact ] UNIVERSITY OF MINNESOTA DULUTH  ->  University of Minnesota-Duluth
+[exact ] UNIVERSITY OF MINNESOTA TWIN CITIES  ->  University of Minnesota-Twin Cities
+[exact ] UNIVERSITY OF MISSISSIPPI MAIN CAMPUS  ->  University of Mississippi
+[family] UNIVERSITY OF MISSOURI  ->  University of Missouri-Columbia
+[exact ] UNIVERSITY OF MISSOURI-ST LOUIS  ->  University of Missouri-St Louis
+[family] UNIVERSITY OF MONTANA - MISSOULA COLLEGE, THE  ->  The University of Montana
+[exact ] UNIVERSITY OF MONTANA, THE  ->  The University of Montana
+[exact ] UNIVERSITY OF MOUNT OLIVE  ->  University of Mount Olive
+[exact ] UNIVERSITY OF MOUNT UNION  ->  University of Mount Union
+[exact ] UNIVERSITY OF NEBRASKA - LINCOLN  ->  University of Nebraska-Lincoln
+[exact ] UNIVERSITY OF NEVADA-LAS VEGAS  ->  University of Nevada-Las Vegas
+[exact ] UNIVERSITY OF NEVADA-RENO  ->  University of Nevada-Reno
+[family] UNIVERSITY OF NEW ENGLAND-PORTLAND CAMPUS  ->  University of New England
+[family] UNIVERSITY OF NEW ENGLAND-UNIVERSITY CAMPUS  ->  University of New England
+[exact ] UNIVERSITY OF NEW HAMPSHIRE-MAIN CAMPUS  ->  University of New Hampshire-Main Campus
+[exact ] UNIVERSITY OF NEW HAMPSHIRE-MANCHESTER  ->  University of New Hampshire at Manchester
+[exact ] UNIVERSITY OF NEW HAVEN  ->  University of New Haven
+[exact ] UNIVERSITY OF NEW MEXICO-MAIN CAMPUS  ->  University of New Mexico-Main Campus
+[exact ] UNIVERSITY OF NEW ORLEANS  ->  University of New Orleans
+[exact ] UNIVERSITY OF NORTH ALABAMA  ->  University of North Alabama
+[exact ] UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE  ->  University of North Carolina Asheville
+[exact ] UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL  ->  University of North Carolina at Chapel Hill
+[exact ] UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE  ->  University of North Carolina at Charlotte
+[exact ] UNIVERSITY OF NORTH CAROLINA AT GREENSBORO  ->  University of North Carolina at Greensboro
+[exact ] UNIVERSITY OF NORTH CAROLINA-WILMINGTON  ->  University of North Carolina Wilmington
+[exact ] UNIVERSITY OF NORTH DAKOTA-MAIN CAMPUS  ->  University of North Dakota
+[exact ] UNIVERSITY OF NORTH FLORIDA  ->  University of North Florida
+[exact ] UNIVERSITY OF NORTH GEORGIA  ->  University of North Georgia
+[exact ] UNIVERSITY OF NORTH TEXAS  ->  University of North Texas
+[exact ] UNIVERSITY OF NORTHERN IOWA  ->  University of Northern Iowa
+[exact ] UNIVERSITY OF NORTHWESTERN OHIO  ->  University of Northwestern Ohio
+[exact ] UNIVERSITY OF NORTHWESTERN ST. PAUL  ->  University of Northwestern-St Paul
+[exact ] UNIVERSITY OF NOTRE DAME  ->  University of Notre Dame
+[family] UNIVERSITY OF OKLAHOMA  ->  University of Oklahoma-Norman Campus
+[family] UNIVERSITY OF OKLAHOMA - DOUGLASS LEARNING CENTER  ->  University of Oklahoma-Health Sciences Center
+[family] UNIVERSITY OF OKLAHOMA - FT. BENNING GA - AP  ->  University of Oklahoma-Norman Campus
+[family] UNIVERSITY OF OKLAHOMA - NELLIS AIR FORCE BASE  ->  University of Oklahoma-Norman Campus
+[exact ] UNIVERSITY OF OREGON  ->  University of Oregon
+[exact ] UNIVERSITY OF PENNSYLVANIA  ->  University of Pennsylvania
+[exact ] UNIVERSITY OF PHOENIX-ARIZONA  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-ATLANTA CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-AUGUSTA CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-AUSTIN CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-BATON ROUGE  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-BIRMINGHAM CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-BOSTON CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-CENTRAL FLORIDA CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-CENTRAL MASSACHUSETTS CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-CENTRAL VALLEY CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-CHATTANOOGA CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-CHEYENNE CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-CHICAGO CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-CINCINNATI CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-CLEVELAND CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-COLORADO CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-COLUMBIA SOUTH CAROLINA CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-COLUMBUS GEORGIA CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-COLUMBUS OHIO CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-DALLAS CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-DELAWARE CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-DES MOINES CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-DETROIT CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-EASTERN WASHINGTON CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-FAIRFIELD COUNTY CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-FLORENCE  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-FLORIDA  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-FT. COLLINS LEARNING CENTER  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-HARRISBURG CAMPUS  ->  University of Phoenix-Hawaii
+[exact ] UNIVERSITY OF PHOENIX-HAWAII CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-HOUSTON CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-IDAHO CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-INDIANAPOLIS CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-JERSEY CITY CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-KANSAS CITY CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-KNOXVILLE CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-LAFAYETTE CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-LAS VEGAS CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-LITTLE ROCK CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-LOUISIANA CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-LOUISVILLE CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-MADISON CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-MARYLAND CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-MCALLEN CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-MEMPHIS CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-MICHIGAN  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-MILWAUKEE CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-MINNEAPOLIS/ST. PAUL CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-NASHVILLE CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-NEW MEXICO CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-NORTH CAROLINA CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-NORTH FLORIDA CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-NORTHERN CALIFORNIA CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-NORTHERN NEVADA CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-NORTHERN VIRGINIA CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-NORTHWEST ARKANSAS CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-NORTHWEST INDIANA CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-OKLAHOMA CITY CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-OMAHA CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-ONLINE CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-OREGON CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-PENNSYLVANIA  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-PHILADELPHIA CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-PITTSBURGH CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-PUERTO RICO CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-RALEIGH CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-RICHMOND CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-SACRAMENTO VALLEY CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-SAN ANTONIO CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-SAN DIEGO CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-SAVANNAH CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-SHREVEPORT-BOSSIER CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-SOUTH FLORIDA CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-SOUTHERN ARIZONA CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-SOUTHERN CALIFORNIA CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-SOUTHERN COLORADO CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-SPRINGFIELD CAMPUS  ->  University of Phoenix-Nevada
+[family] UNIVERSITY OF PHOENIX-ST LOUIS CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-TULSA CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-UTAH CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-VIRGINIA  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-WASHINGTON DC CAMPUS  ->  University of Phoenix-Arizona
+[family] UNIVERSITY OF PHOENIX-WEST FLORIDA CAMPUS  ->  University of Phoenix-California
+[family] UNIVERSITY OF PHOENIX-WEST MICHIGAN CAMPUS  ->  University of Phoenix-Hawaii
+[family] UNIVERSITY OF PHOENIX-WESTERN WASHINGTON CAMPUS  ->  University of Phoenix-Texas
+[family] UNIVERSITY OF PHOENIX-WICHITA CAMPUS  ->  University of Phoenix-Hawaii
+[exact ] UNIVERSITY OF PIKEVILLE  ->  University of Pikeville
+[exact ] UNIVERSITY OF PORTLAND  ->  University of Portland
+[exact ] UNIVERSITY OF PUERTO RICO-AGUADILLA  ->  University of Puerto Rico-Aguadilla
+[exact ] UNIVERSITY OF PUERTO RICO-MAYAGUEZ  ->  University of Puerto Rico-Mayaguez
+[exact ] UNIVERSITY OF PUERTO RICO-RIO PIEDRAS  ->  University of Puerto Rico-Rio Piedras
+[exact ] UNIVERSITY OF REDLANDS  ->  University of Redlands
+[exact ] UNIVERSITY OF RHODE ISLAND  ->  University of Rhode Island
+[exact ] UNIVERSITY OF RICHMOND  ->  University of Richmond
+[exact ] UNIVERSITY OF RIO GRANDE  ->  University of Rio Grande
+[exact ] UNIVERSITY OF ROCHESTER  ->  University of Rochester
+[exact ] UNIVERSITY OF SAN FRANCISCO  ->  University of San Francisco
+[exact ] UNIVERSITY OF SCRANTON  ->  University of Scranton
+[exact ] UNIVERSITY OF SOUTH ALABAMA  ->  University of South Alabama
+[exact ] UNIVERSITY OF SOUTH CAROLINA AIKEN  ->  University of South Carolina Aiken
+[exact ] UNIVERSITY OF SOUTH CAROLINA COLUMBIA  ->  University of South Carolina-Columbia
+[exact ] UNIVERSITY OF SOUTH CAROLINA LANCASTER  ->  University of South Carolina-Lancaster
+[exact ] UNIVERSITY OF SOUTH CAROLINA SUMTER  ->  University of South Carolina-Sumter
+[exact ] UNIVERSITY OF SOUTH DAKOTA  ->  University of South Dakota
+[exact ] UNIVERSITY OF SOUTH FLORIDA  ->  University of South Florida
+[family] UNIVERSITY OF SOUTH FLORIDA-ST. PETERSBURG  ->  University of South Florida
+[exact ] UNIVERSITY OF SOUTHERN CALIFORNIA  ->  University of Southern California
+[exact ] UNIVERSITY OF SOUTHERN MAINE  ->  University of Southern Maine
+[exact ] UNIVERSITY OF SOUTHERN MISSISSIPPI  ->  University of Southern Mississippi
+[exact ] UNIVERSITY OF ST THOMAS  ->  University of St Thomas
+[exact ] UNIVERSITY OF TAMPA, THE  ->  The University of Tampa
+[family] UNIVERSITY OF TENNESSEE  ->  The University of Tennessee-Knoxville
+[exact ] UNIVERSITY OF TENNESSEE AT CHATTANOOGA  ->  The University of Tennessee-Chattanooga
+[exact ] UNIVERSITY OF TENNESSEE AT MARTIN  ->  The University of Tennessee-Martin
+[exact ] UNIVERSITY OF TEXAS AT ARLINGTON, THE  ->  The University of Texas at Arlington
+[exact ] UNIVERSITY OF TEXAS AT AUSTIN, THE  ->  The University of Texas at Austin
+[exact ] UNIVERSITY OF TEXAS AT DALLAS, THE  ->  The University of Texas at Dallas
+[exact ] UNIVERSITY OF TEXAS AT EL PASO, THE  ->  The University of Texas at El Paso
+[exact ] UNIVERSITY OF TEXAS AT SAN ANTONIO, THE  ->  The University of Texas at San Antonio
+[exact ] UNIVERSITY OF TEXAS OF PERMIAN BASIN, THE  ->  The University of Texas Permian Basin
+[exact ] UNIVERSITY OF THE PACIFIC  ->  University of the Pacific
+[exact ] UNIVERSITY OF TOLEDO  ->  University of Toledo
+[exact ] UNIVERSITY OF UTAH  ->  University of Utah
+[exact ] UNIVERSITY OF VIRGINIA-MAIN CAMPUS  ->  University of Virginia-Main Campus
+[family] UNIVERSITY OF WASHINGTON  ->  University of Washington-Seattle Campus
+[exact ] UNIVERSITY OF WEST FLORIDA, THE  ->  University of West Florida
+[exact ] UNIVERSITY OF WISCONSIN-EAU CLAIRE  ->  University of Wisconsin-Eau Claire
+[exact ] UNIVERSITY OF WISCONSIN-GREEN BAY  ->  University of Wisconsin-Green Bay
+[exact ] UNIVERSITY OF WISCONSIN-LA CROSSE  ->  University of Wisconsin-La Crosse
+[exact ] UNIVERSITY OF WISCONSIN-MADISON  ->  University of Wisconsin-Madison
+[exact ] UNIVERSITY OF WISCONSIN-MILWAUKEE  ->  University of Wisconsin-Milwaukee
+[exact ] UNIVERSITY OF WISCONSIN-OSHKOSH  ->  University of Wisconsin-Oshkosh
+[exact ] UNIVERSITY OF WISCONSIN-STOUT  ->  University of Wisconsin-Stout
+[exact ] UNIVERSITY OF WISCONSIN-WHITEWATER  ->  University of Wisconsin-Whitewater
+[exact ] UNIVERSITY OF WYOMING  ->  University of Wyoming
+[exact ] UPPER IOWA UNIVERSITY  ->  Upper Iowa University
+[exact ] URBAN COLLEGE OF BOSTON  ->  Urban College of Boston
+[exact ] URSINUS COLLEGE  ->  Ursinus College
+[exact ] UTAH STATE UNIVERSITY  ->  Utah State University
+[family] UTAH STATE UNIVERSITY - COLLEGE OF EASTERN UTAH  ->  Utah State University
+[exact ] UTAH TECH UNIVERSITY  ->  Utah Tech University
+[exact ] UTAH VALLEY UNIVERSITY  ->  Utah Valley University
+[exact ] UTICA UNIVERSITY  ->  Utica University
+[exact ] VALENCIA COLLEGE  ->  Valencia College
+[exact ] VALLEY FORGE MILITARY COLLEGE  ->  Valley Forge Military College
+[exact ] VANDERBILT UNIVERSITY  ->  Vanderbilt University
+[exact ] VASSAR COLLEGE  ->  Vassar College
+[exact ] VENTURA COLLEGE  ->  Ventura College
+[exact ] VERMONT STATE UNIVERSITY  ->  Vermont State University
+[exact ] VET TECH INSTITUTE  ->  Vet Tech Institute
+[exact ] VICTOR VALLEY COLLEGE  ->  Victor Valley College
+[exact ] VILLANOVA UNIVERSITY  ->  Villanova University
+[exact ] VINCENNES UNIVERSITY  ->  Vincennes University
+[exact ] VIRGINIA COMMONWEALTH UNIVERSITY  ->  Virginia Commonwealth University
+[exact ] VIRGINIA PENINSULA COMMUNITY COLLEGE  ->  Virginia Peninsula Community College
+[exact ] VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY  ->  Virginia Polytechnic Institute and State University
+[exact ] VIRGINIA UNION UNIVERSITY  ->  Virginia Union University
+[exact ] VIRGINIA WESLEYAN UNIVERSITY  ->  Virginia Wesleyan University
+[exact ] VIRGINIA WESTERN COMMUNITY COLLEGE  ->  Virginia Western Community College
+[exact ] VOLUNTEER STATE COMMUNITY COLLEGE  ->  Volunteer State Community College
+[exact ] WAGNER COLLEGE  ->  Wagner College
+[exact ] WAKE FOREST UNIVERSITY  ->  Wake Forest University
+[exact ] WAKE TECHNICAL COMMUNITY COLLEGE  ->  Wake Technical Community College
+[exact ] WALDORF UNIVERSITY  ->  Waldorf University
+[exact ] WARREN COUNTY COMMUNITY COLLEGE  ->  Warren County Community College
+[exact ] WASHINGTON AND JEFFERSON COLLEGE  ->  Washington & Jefferson College
+[exact ] WASHINGTON AND LEE UNIVERSITY  ->  Washington and Lee University
+[exact ] WASHINGTON COLLEGE  ->  Washington College
+[exact ] WASHINGTON STATE UNIVERSITY  ->  Washington State University
+[family] WASHINGTON STATE UNIVERSITY - EVERETT CAMPUS  ->  Washington State University
+[family] WASHINGTON STATE UNIVERSITY-SPOKANE  ->  Washington State University
+[family] WASHINGTON STATE UNIVERSITY-TRI CITIES  ->  Washington State University
+[family] WASHINGTON STATE UNIVERSITY-VANCOUVER  ->  Washington State University
+[exact ] WASHTENAW COMMUNITY COLLEGE  ->  Washtenaw Community College
+[exact ] WAUBONSEE COMMUNITY COLLEGE  ->  Waubonsee Community College
+[exact ] WAYNE COUNTY COMMUNITY COLLEGE DISTRICT  ->  Wayne County Community College District
+[exact ] WAYNE STATE UNIVERSITY  ->  Wayne State University
+[exact ] WAYNESBURG UNIVERSITY  ->  Waynesburg University
+[exact ] WEBER STATE UNIVERSITY  ->  Weber State University
+[exact ] WEBSTER UNIVERSITY  ->  Webster University
+[exact ] WELLS COLLEGE  ->  Wells College
+[exact ] WENATCHEE VALLEY COLLEGE  ->  Wenatchee Valley College
+[exact ] WENTWORTH INSTITUTE OF TECHNOLOGY  ->  Wentworth Institute of Technology
+[exact ] WESLEYAN COLLEGE  ->  Wesleyan College
+[exact ] WEST CHESTER UNIVERSITY OF PENNSYLVANIA  ->  West Chester University of Pennsylvania
+[exact ] WEST GEORGIA TECHNICAL COLLEGE  ->  West Georgia Technical College
+[exact ] WEST KENTUCKY COMMUNITY & TECHNICAL COLLEGE  ->  West Kentucky Community and Technical College
+[exact ] WEST LIBERTY UNIVERSITY  ->  West Liberty University
+[exact ] WEST LOS ANGELES COLLEGE  ->  West Los Angeles College
+[exact ] WEST TEXAS A & M UNIVERSITY  ->  West Texas A & M University
+[exact ] WEST VALLEY COLLEGE  ->  West Valley College
+[exact ] WEST VIRGINIA NORTHERN COMMUNITY COLLEGE  ->  West Virginia Northern Community College
+[exact ] WEST VIRGINIA STATE UNIVERSITY  ->  West Virginia State University
+[exact ] WEST VIRGINIA UNIVERSITY  ->  West Virginia University
+[exact ] WEST VIRGINIA UNIVERSITY AT PARKERSBURG  ->  West Virginia University at Parkersburg
+[exact ] WEST VIRGINIA WESLEYAN COLLEGE  ->  West Virginia Wesleyan College
+[exact ] WESTERN CAROLINA UNIVERSITY  ->  Western Carolina University
+[exact ] WESTERN CONNECTICUT STATE UNIVERSITY  ->  Western Connecticut State University
+[exact ] WESTERN GOVERNORS UNIVERSITY  ->  Western Governors University
+[exact ] WESTERN IOWA TECH COMMUNITY COLLEGE  ->  Western Iowa Tech Community College
+[exact ] WESTERN KENTUCKY UNIVERSITY  ->  Western Kentucky University
+[exact ] WESTERN MICHIGAN UNIVERSITY  ->  Western Michigan University
+[exact ] WESTERN NEVADA COLLEGE  ->  Western Nevada College
+[exact ] WESTERN NEW ENGLAND UNIVERSITY  ->  Western New England University
+[exact ] WESTERN WASHINGTON UNIVERSITY  ->  Western Washington University
+[exact ] WESTERN WYOMING COMMUNITY COLLEGE  ->  Western Wyoming Community College
+[exact ] WESTFIELD STATE UNIVERSITY  ->  Westfield State University
+[exact ] WESTMINSTER COLLEGE  ->  Westminster College
+[exact ] WESTMORELAND COUNTY COMMUNITY COLLEGE  ->  Westmoreland County Community College
+[exact ] WHARTON COUNTY JUNIOR COLLEGE  ->  Wharton County Junior College
+[exact ] WHATCOM COMMUNITY COLLEGE  ->  Whatcom Community College
+[exact ] WHEATON COLLEGE  ->  Wheaton College
+[exact ] WHITTIER COLLEGE  ->  Whittier College
+[exact ] WHITWORTH UNIVERSITY  ->  Whitworth University
+[exact ] WHITWORTH UNIVERSITY-ADULT DEGREE PROGRAMS  ->  Whitworth University-Adult Degree Programs
+[exact ] WICHITA STATE UNIVERSITY-CAMPUS OF APPLIED SCIENCES AND TECHNOLOGY  ->  Wichita State University-Campus of Applied Sciences and Technology
+[family] WIDENER UNIVERSITY-DELAWARE CAMPUS  ->  Widener University
+[family] WIDENER UNIVERSITY-HARRISBURG CAMPUS  ->  Widener University
+[exact ] WIDENER UNIVERSITY-MAIN CAMPUS  ->  Widener University
+[exact ] WILKES COMMUNITY COLLEGE  ->  Wilkes Community College
+[exact ] WILKES UNIVERSITY  ->  Wilkes University
+[exact ] WILLAMETTE UNIVERSITY  ->  Willamette University
+[exact ] WILLIAM JESSUP UNIVERSITY  ->  William Jessup University
+[exact ] WILLIAM PATERSON UNIVERSITY OF NEW JERSEY  ->  William Paterson University of New Jersey
+[exact ] WILLIAM RAINEY HARPER COLLEGE  ->  William Rainey Harper College
+[exact ] WILLIAMS COLLEGE  ->  Williams College
+[exact ] WILMINGTON UNIVERSITY  ->  Wilmington University
+[exact ] WILSON COLLEGE  ->  Wilson College
+[exact ] WINGATE UNIVERSITY  ->  Wingate University
+[exact ] WINSTON-SALEM STATE UNIVERSITY  ->  Winston-Salem State University
+[exact ] WIREGRASS GEORGIA TECHNICAL COLLEGE  ->  Wiregrass Georgia Technical College
+[exact ] WITTENBERG UNIVERSITY  ->  Wittenberg University
+[exact ] WOFFORD COLLEGE  ->  Wofford College
+[exact ] WORCESTER POLYTECHNIC INSTITUTE  ->  Worcester Polytechnic Institute
+[exact ] WORCESTER STATE UNIVERSITY  ->  Worcester State University
+[exact ] WRIGHT STATE UNIVERSITY-LAKE CAMPUS  ->  Wright State University-Lake Campus
+[exact ] WRIGHT STATE UNIVERSITY-MAIN CAMPUS  ->  Wright State University-Main Campus
+[exact ] XAVIER UNIVERSITY  ->  Xavier University
+[exact ] YALE UNIVERSITY  ->  Yale University
+[exact ] YESHIVA UNIVERSITY  ->  Yeshiva University
+[exact ] YORK COLLEGE PENNSYLVANIA  ->  York College of Pennsylvania
+[exact ] YORK TECHNICAL COLLEGE  ->  York Technical College
+[exact ] YOUNG HARRIS COLLEGE  ->  Young Harris College
+[exact ] YOUNGSTOWN STATE UNIVERSITY  ->  Youngstown State University
+[exact ] YTI CAREER INSTITUTE - ALTOONA  ->  YTI Career Institute-Altoona
+[exact ] YTI CAREER INSTITUTE-ALTOONA  ->  YTI Career Institute-Altoona
+[exact ] YTI CAREER INSTITUTE-YORK  ->  YTI Career Institute-York
+[exact ] ZANE STATE COLLEGE  ->  Zane State College
