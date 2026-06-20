@@ -2,6 +2,7 @@ import { useCallback, useMemo, useState } from 'react';
 import { Controls, SearchBar, TopBar } from './components/Chrome';
 import { DataDrawer } from './components/DataDrawer';
 import { ResultsList } from './components/Results';
+import { DegreePanel } from './degree/DegreePanel';
 import { useDebounce } from './hooks/useDebounce';
 import { useTesData } from './hooks/useTesData';
 import { filterOnline, rateFor, sortColleges } from './lib/cost';
@@ -20,6 +21,7 @@ export default function App() {
   const [userLoc, setUserLoc] = useState<LatLng | null>(null);
   const [locStatus, setLocStatus] = useState<'idle' | 'locating' | 'set' | 'blocked'>('idle');
   const [onlineOnly, setOnlineOnly] = useState(false);
+  const [tab, setTab] = useState<'search' | 'degree'>('search');
   const [openCodes, setOpenCodes] = useState<Set<string>>(new Set());
 
   const debouncedQuery = useDebounce(query, 200);
@@ -35,6 +37,11 @@ export default function App() {
       else next.add(code);
       return next;
     });
+  }, []);
+
+  const findCourse = useCallback((code: string) => {
+    setQuery(code);
+    setTab('search');
   }, []);
 
   const useMyLocation = useCallback(() => {
@@ -93,7 +100,16 @@ export default function App() {
             transfers in as an exact equivalent — sorted by what it actually
             costs per credit.
           </p>
-          <SearchBar value={query} onChange={setQuery} />
+          <div className="tabs">
+            <button className={`tab${tab === 'search' ? ' active' : ''}`} onClick={() => setTab('search')}>
+              FIND COURSES
+            </button>
+            <button className={`tab${tab === 'degree' ? ' active' : ''}`} onClick={() => setTab('degree')}>
+              DEGREE PROGRESS
+            </button>
+          </div>
+          {tab === 'search' && (
+          <><SearchBar value={query} onChange={setQuery} />
           <Controls
             sortMode={sortMode}
             onSortMode={setSortMode}
@@ -106,9 +122,15 @@ export default function App() {
             onlineOnly={onlineOnly}
             onOnlineOnly={setOnlineOnly}
             costsLoaded={costsLoaded}
-          />
+          /></>
+          )}
         </div>
 
+        {tab === 'degree' && (
+          <DegreePanel onFindCourse={findCourse} />
+        )}
+
+        {tab === 'search' && (<>
         <ResultsList
           groups={groups}
           query={debouncedQuery}
@@ -132,6 +154,7 @@ export default function App() {
             </button>
           </div>
         )}
+        </>)}
 
         <DataDrawer db={db} status={status} onMerge={mergePasted} />
 
