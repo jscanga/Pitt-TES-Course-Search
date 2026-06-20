@@ -1,0 +1,698 @@
+{
+ "catalogYear": "2025-2026",
+ "program": "School of Computing and Information",
+ "plans": [
+  "Computer Science Major",
+  "Data Science Major"
+ ],
+ "globalRules": {
+  "minUnits": 120,
+  "minResidencyCredits": 30,
+  "minMajorCreditsInResidency": 15,
+  "majorResidencyFraction": 0.5,
+  "pedcMilsCap": 4
+ },
+ "sections": [
+  {
+   "id": "foundation_seminar",
+   "section": "Gen Ed: Foundation",
+   "label": "First-year Seminar",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CMPINF 0001"
+    ]
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Pitt SCI seminar \u2014 not transferable."
+  },
+  {
+   "id": "foundation_bigideas",
+   "section": "Gen Ed: Foundation",
+   "label": "Big Ideas in Computing",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CMPINF 0010"
+    ]
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Pitt SCI course \u2014 not transferable."
+  },
+  {
+   "id": "skills_intro_comp",
+   "section": "Gen Ed: Expression",
+   "label": "Introductory Composition",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "ENGCMP 0150",
+     "ENGCMP 0200"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": "Commonly available at community colleges."
+  },
+  {
+   "id": "skills_tech_writing",
+   "section": "Gen Ed: Expression",
+   "label": "Technical/Business/Research Writing",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "ENGCMP 0250",
+     "ENGCMP 1900",
+     "ENGCMP 0610"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": "Check TES \u2014 varies by college."
+  },
+  {
+   "id": "skills_comm",
+   "section": "Gen Ed: Expression",
+   "label": "Communications",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "COMMRC 0500",
+     "COMMRC 0520",
+     "COMMRC 0300"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "skills_math",
+   "section": "Gen Ed: Quantitative",
+   "label": "Mathematics",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "MATH 0220",
+     "MATH 0120",
+     "MATH 0235"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "skills_stat",
+   "section": "Gen Ed: Quantitative",
+   "label": "Statistics",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "STAT 1000",
+     "STAT 0200",
+     "STAT 1100",
+     "CS 1503",
+     "STAT 1151"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "sci_sequence",
+   "section": "Gen Ed: Scientific",
+   "label": "Natural Science 2-course sequence",
+   "kind": "sequence",
+   "n": 2,
+   "satisfiedBy": {
+    "sequences": [
+     [
+      "CHEM 0110",
+      "CHEM 0120"
+     ],
+     [
+      "BIOSC 0150",
+      "BIOSC 0160"
+     ],
+     [
+      "PHYS 0110",
+      "PHYS 0111"
+     ],
+     [
+      "PHYS 0174",
+      "PHYS 0175"
+     ],
+     [
+      "NROSCI 0080",
+      "NROSCI 0081"
+     ]
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": "CHEM/BIOSC/PHYS sequences widely transfer \u2014 strong cost-savings target."
+  },
+  {
+   "id": "sci_third",
+   "section": "Gen Ed: Scientific",
+   "label": "Third natural-science course",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "science_nonseq"
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "poly_ethical",
+   "section": "Gen Ed: Polymathic",
+   "label": "Ethical/Policy",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ge_ethical"
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "poly_five",
+   "section": "Gen Ed: Polymathic",
+   "label": "Global/Social/Humanistic (5 total, \u22651 each)",
+   "kind": "courses",
+   "n": 5,
+   "satisfiedBy": {
+    "predicate": "ge_gsh"
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": "Humanities/social-science gen eds \u2014 easy transfer targets."
+  },
+  {
+   "id": "diversity",
+   "section": "Gen Ed: Diversity",
+   "label": "Diversity course",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ge_diversity"
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": "May double-count with another gen ed."
+  },
+  {
+   "id": "secondary_field",
+   "section": "Gen Ed: Secondary Field",
+   "label": "Secondary Field of Study",
+   "kind": "flag",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "declared_second_program"
+   },
+   "transferEligible": false,
+   "residencyLocked": false,
+   "eligibleNote": "Auto-satisfied by the DS second major."
+  },
+  {
+   "id": "cs_core_introprog",
+   "section": "CS Core",
+   "label": "Intermediate Programming (Java)",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CMPINF 0401",
+     "CS 0401"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_core_discrete",
+   "section": "CS Core",
+   "label": "Discrete Structures",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 0441"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_core_algods",
+   "section": "CS Core",
+   "label": "Algorithms & Data Structures 1",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 0445"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_core_orgasm",
+   "section": "CS Core",
+   "label": "Computer Organization & Assembly",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 0447"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_core_systems",
+   "section": "CS Core",
+   "label": "Intro to Systems Software",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 0449"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_core_algoimpl",
+   "section": "CS Core",
+   "label": "Algorithms Implementation",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 1501"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level CS \u2014 no transfer equivalency; take at Pitt."
+  },
+  {
+   "id": "cs_core_formal",
+   "section": "CS Core",
+   "label": "Formal Methods",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 1502",
+     "CS 1510"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level CS \u2014 no transfer equivalency; take at Pitt."
+  },
+  {
+   "id": "cs_core_mathml",
+   "section": "CS Core",
+   "label": "Mathematical Foundations of ML",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 1503"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level CS \u2014 take at Pitt."
+  },
+  {
+   "id": "cs_electives",
+   "section": "CS Electives",
+   "label": "1000-level CS electives",
+   "major": "CS",
+   "kind": "courses",
+   "n": 6,
+   "satisfiedBy": {
+    "predicate": "cs_1000_plus"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level CS electives \u2014 almost never transfer; take at Pitt."
+  },
+  {
+   "id": "cs_math_calc",
+   "section": "CS Math",
+   "label": "Analytic Geometry & Calculus",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "MATH 0220"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_math_linalg",
+   "section": "CS Math",
+   "label": "Linear Algebra",
+   "major": "CS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "MATH 0280"
+    ]
+   },
+   "minGrade": "C",
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "cs_capstone",
+   "section": "CS Capstone",
+   "label": "CS Capstone",
+   "major": "CS",
+   "kind": "units",
+   "n": 3,
+   "satisfiedBy": {
+    "predicate": "cs_capstone"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Research/internship/co-op at Pitt \u2014 not transferable."
+  },
+  {
+   "id": "ds_data_lit",
+   "section": "DS Foundational",
+   "label": "Data Literacy",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CMPINF 0010",
+     "DSANA 0010"
+    ]
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Pitt-specific; take at Pitt."
+  },
+  {
+   "id": "ds_alg1",
+   "section": "DS Foundational",
+   "label": "Algorithmic Literacy 1 (Intermediate Programming)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CMPINF 0401",
+     "CS 0401"
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "ds_alg2",
+   "section": "DS Foundational",
+   "label": "Algorithmic Literacy 2 (Data Structures)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 0445"
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "ds_math1",
+   "section": "DS Foundational",
+   "label": "Mathematical Literacy 1 (Calculus)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "MATH 0220",
+     "MATH 0230"
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "ds_math2",
+   "section": "DS Foundational",
+   "label": "Mathematical Literacy 2 (Linear Algebra)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "MATH 0280"
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "ds_math3",
+   "section": "DS Foundational",
+   "label": "Mathematical Literacy 3 (Discrete Math)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 0441"
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "ds_stat1",
+   "section": "DS Foundational",
+   "label": "Statistical Literacy 1 (Probability)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "STAT 1151",
+     "STAT 1000"
+    ]
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": ""
+  },
+  {
+   "id": "ds_stat2",
+   "section": "DS Foundational",
+   "label": "Statistical Literacy 2 (Math Statistics)",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "STAT 1152",
+     "STAT 1221"
+    ]
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level stat \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_exp_principles",
+   "section": "DS Expertise",
+   "label": "Principles of Data Science",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ds_principles"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level DS \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_exp_ml",
+   "section": "DS Expertise",
+   "label": "Statistical/Machine Learning",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ds_ml"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level DS \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_exp_algimpl",
+   "section": "DS Expertise",
+   "label": "Algorithm Implementation",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "anyOf": [
+     "CS 1501"
+    ]
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_exp_datasci",
+   "section": "DS Expertise",
+   "label": "Data Management/Manipulation",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ds_data"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level DS \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_exp_opt",
+   "section": "DS Expertise",
+   "label": "Optimization",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ds_opt"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_exp_ethics",
+   "section": "DS Expertise",
+   "label": "Ethical Use of Data",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ds_ethics"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level DS \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_spec",
+   "section": "DS Specialization",
+   "label": "Upper-level Specialization Electives",
+   "major": "DS",
+   "kind": "units",
+   "n": 9,
+   "satisfiedBy": {
+    "predicate": "ds_spec_electives"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Upper-level DS electives \u2014 take at Pitt."
+  },
+  {
+   "id": "ds_capstone",
+   "section": "DS Capstone",
+   "label": "DS Capstone",
+   "major": "DS",
+   "kind": "courses",
+   "n": 1,
+   "satisfiedBy": {
+    "predicate": "ds_capstone"
+   },
+   "transferEligible": false,
+   "residencyLocked": true,
+   "eligibleNote": "Take at Pitt."
+  },
+  {
+   "id": "ds_min_units",
+   "section": "DS Capstone",
+   "label": "Min 60 units toward DS major",
+   "major": "DS",
+   "kind": "units",
+   "n": 60,
+   "satisfiedBy": {
+    "predicate": "ds_major_units"
+   },
+   "transferEligible": true,
+   "residencyLocked": false,
+   "eligibleNote": "Aggregate credit floor \u2014 partly fillable by transfer foundational courses."
+  }
+ ]
+}
